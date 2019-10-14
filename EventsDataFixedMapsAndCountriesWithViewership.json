@@ -2499,7 +2499,7 @@
   "prizePool": 250000,
   "maps": ["inf", "mrg", "d2", "cch", "nuke", "ovp", "cbl"],
   "teams": ["Bravado", "CPH Wolves", "Cloud9", "Dignitas", "ESC", "FlipSid3", "HellRaisers", "LDLC", "Natus Vincere", "NiP", "PENTA", "Planetkey", "Virtus.pro", "fnatic", "iBUYPOWER", "myXMG"],
-  "viewership": -1,
+  "viewership": 704788,
   "prizeDistribution": [{
     "place": "1st",
     "prize": "$100,000",
