@@ -1,0 +1,38 @@
+- Separar dataset por pergunta para o relatório:
+
+	Ex.: best teams in each tournament:
+		{"ELEAGUE Major 2018": 
+			{
+				"place": "1st",
+				"prize": "$500,000"
+				"team": "Cloud9"
+			},
+			{
+				"place": "2nd",
+				...
+			}
+		},
+		.
+		.
+		.
+	
+	best performing players:
+		{"ELEAGUE Major 2018": 
+			{
+				"rating": "1.39",
+				"playerTag": "flamie"
+				"team": "Natus Vincere"
+			},
+			{
+				"rating": "1.29",
+				...
+			}
+		},
+		.
+		.
+		.
+		
+- Adicionar soma de dinheiro ganho / média do lugar alcançado para todas as equipas, na data de cada torneio
+
+
+- Adicionar CT/T win percentage: scrape more HLTV (https://www.hltv.org/stats/maps?event=4443)
