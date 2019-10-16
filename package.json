@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/joaomacp/hltvData#readme",
   "dependencies": {
-    "hltv": "file:/mnt/c/Users/Nimbus/HLTV"
+    "hltv": "file:/home/nimbus/HLTV"
   }
 }

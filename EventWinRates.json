@@ -1,0 +1,597 @@
+{
+  "ELEAGUE Major 2017": {
+    "mapsPlayed": {
+      "Overpass": 10,
+      "Cobblestone": 8,
+      "Cache": 8,
+      "Train": 8,
+      "Nuke": 7,
+      "Mirage": 6,
+      "Dust2": 5
+    },
+    "winRates": {
+      "Cache": {
+        "CT": 49.1,
+        "T": 50.9
+      },
+      "Cobblestone": {
+        "CT": 54.5,
+        "T": 45.5
+      },
+      "Dust2": {
+        "CT": 59.5,
+        "T": 40.5
+      },
+      "Mirage": {
+        "CT": 44.2,
+        "T": 55.8
+      },
+      "Nuke": {
+        "CT": 50.3,
+        "T": 49.7
+      },
+      "Overpass": {
+        "CT": 47.9,
+        "T": 52.1
+      },
+      "Train": {
+        "CT": 46.9,
+        "T": 53.1
+      }
+    }
+  },
+  "DreamHack Winter 2014": {
+    "mapsPlayed": {
+      "Mirage": 7,
+      "Inferno": 7,
+      "Dust2": 6,
+      "Nuke": 5,
+      "Cache": 5,
+      "Overpass": 4,
+      "Cobblestone": 2
+    },
+    "winRates": {
+      "Cache": {
+        "CT": 61.7,
+        "T": 38.3
+      },
+      "Cobblestone": {
+        "CT": 79.5,
+        "T": 20.5
+      },
+      "Dust2": {
+        "CT": 51,
+        "T": 49
+      },
+      "Inferno": {
+        "CT": 67.7,
+        "T": 32.3
+      },
+      "Mirage": {
+        "CT": 61.8,
+        "T": 38.2
+      },
+      "Nuke": {
+        "CT": 72.7,
+        "T": 27.3
+      },
+      "Overpass": {
+        "CT": 62.1,
+        "T": 37.9
+      }
+    }
+  },
+  "FACEIT Major 2018": {
+    "mapsPlayed": {
+      "Mirage": 13,
+      "Inferno": 12,
+      "Dust2": 9,
+      "Train": 6,
+      "Overpass": 5,
+      "Cache": 4,
+      "Nuke": 4
+    },
+    "winRates": {
+      "Cache": {
+        "CT": 42.7,
+        "T": 57.3
+      },
+      "Dust2": {
+        "CT": 57.1,
+        "T": 42.9
+      },
+      "Inferno": {
+        "CT": 52.1,
+        "T": 47.9
+      },
+      "Mirage": {
+        "CT": 50.5,
+        "T": 49.5
+      },
+      "Nuke": {
+        "CT": 45.7,
+        "T": 54.3
+      },
+      "Overpass": {
+        "CT": 53.6,
+        "T": 46.4
+      },
+      "Train": {
+        "CT": 52.8,
+        "T": 47.2
+      }
+    }
+  },
+  "DreamHack Winter 2013": {
+    "mapsPlayed": {
+      "Inferno": 19,
+      "Dust2": 9,
+      "Mirage": 4,
+      "Train": 4,
+      "Nuke": 4
+    },
+    "winRates": {
+      "Dust2": {
+        "CT": 38.3,
+        "T": 61.7
+      },
+      "Inferno": {
+        "CT": 57.9,
+        "T": 42.1
+      },
+      "Mirage": {
+        "CT": 42.9,
+        "T": 57.1
+      },
+      "Nuke": {
+        "CT": 65.3,
+        "T": 34.7
+      },
+      "Train": {
+        "CT": 64.4,
+        "T": 35.6
+      }
+    }
+  },
+  "MLG Columbus 2016": {
+    "mapsPlayed": {
+      "Cache": 9,
+      "Mirage": 8,
+      "Cobblestone": 8,
+      "Train": 5,
+      "Overpass": 5,
+      "Inferno": 4,
+      "Dust2": 3
+    },
+    "winRates": {
+      "Cache": {
+        "CT": 36.3,
+        "T": 63.7
+      },
+      "Cobblestone": {
+        "CT": 54.1,
+        "T": 45.9
+      },
+      "Dust2": {
+        "CT": 44.4,
+        "T": 55.6
+      },
+      "Inferno": {
+        "CT": 57.6,
+        "T": 42.4
+      },
+      "Mirage": {
+        "CT": 52.7,
+        "T": 47.3
+      },
+      "Overpass": {
+        "CT": 52.9,
+        "T": 47.1
+      },
+      "Train": {
+        "CT": 41.2,
+        "T": 58.8
+      }
+    }
+  },
+  "DreamHack Open Cluj-Napoca 2015": {
+    "mapsPlayed": {
+      "Cobblestone": 10,
+      "Dust2": 8,
+      "Cache": 6,
+      "Train": 6,
+      "Inferno": 5,
+      "Mirage": 4,
+      "Overpass": 3
+    },
+    "winRates": {
+      "Cache": {
+        "CT": 48.6,
+        "T": 51.4
+      },
+      "Cobblestone": {
+        "CT": 54.8,
+        "T": 45.2
+      },
+      "Dust2": {
+        "CT": 54.7,
+        "T": 45.3
+      },
+      "Inferno": {
+        "CT": 54.3,
+        "T": 45.7
+      },
+      "Mirage": {
+        "CT": 51.8,
+        "T": 48.2
+      },
+      "Overpass": {
+        "CT": 55.6,
+        "T": 44.4
+      },
+      "Train": {
+        "CT": 52.8,
+        "T": 47.2
+      }
+    }
+  },
+  "PGL Major Krakow 2017": {
+    "mapsPlayed": {
+      "Inferno": 12,
+      "Train": 12,
+      "Mirage": 8,
+      "Overpass": 7,
+      "Cobblestone": 5,
+      "Nuke": 3,
+      "Cache": 3
+    },
+    "winRates": {
+      "Cache": {
+        "CT": 57.1,
+        "T": 42.9
+      },
+      "Cobblestone": {
+        "CT": 55.6,
+        "T": 44.4
+      },
+      "Inferno": {
+        "CT": 52.6,
+        "T": 47.4
+      },
+      "Mirage": {
+        "CT": 54.1,
+        "T": 45.9
+      },
+      "Nuke": {
+        "CT": 58.1,
+        "T": 41.9
+      },
+      "Overpass": {
+        "CT": 57.6,
+        "T": 42.4
+      },
+      "Train": {
+        "CT": 54.7,
+        "T": 45.3
+      }
+    }
+  },
+  "ESL One Cologne 2016": {
+    "mapsPlayed": {
+      "Cobblestone": 11,
+      "Train": 10,
+      "Mirage": 6,
+      "Cache": 5,
+      "Dust2": 4,
+      "Overpass": 3,
+      "Nuke": 3
+    },
+    "winRates": {
+      "Cache": {
+        "CT": 62.8,
+        "T": 37.2
+      },
+      "Cobblestone": {
+        "CT": 44.4,
+        "T": 55.6
+      },
+      "Dust2": {
+        "CT": 51.5,
+        "T": 48.5
+      },
+      "Mirage": {
+        "CT": 49,
+        "T": 51
+      },
+      "Nuke": {
+        "CT": 58.8,
+        "T": 41.2
+      },
+      "Overpass": {
+        "CT": 54.3,
+        "T": 45.7
+      },
+      "Train": {
+        "CT": 56.3,
+        "T": 43.7
+      }
+    }
+  },
+  "ESL One Katowice 2015": {
+    "mapsPlayed": {
+      "Inferno": 8,
+      "Dust2": 7,
+      "Cache": 7,
+      "Nuke": 5,
+      "Cobblestone": 4,
+      "Mirage": 4,
+      "Overpass": 3
+    },
+    "winRates": {
+      "Cache": {
+        "CT": 59.8,
+        "T": 40.2
+      },
+      "Cobblestone": {
+        "CT": 50.9,
+        "T": 49.1
+      },
+      "Dust2": {
+        "CT": 50.8,
+        "T": 49.2
+      },
+      "Inferno": {
+        "CT": 59.7,
+        "T": 40.3
+      },
+      "Mirage": {
+        "CT": 49.4,
+        "T": 50.6
+      },
+      "Nuke": {
+        "CT": 76.3,
+        "T": 23.7
+      },
+      "Overpass": {
+        "CT": 64.2,
+        "T": 35.8
+      }
+    }
+  },
+  "ESL One Cologne 2014": {
+    "mapsPlayed": {
+      "Dust2": 9,
+      "Inferno": 7,
+      "Nuke": 6,
+      "Cobblestone": 6,
+      "Overpass": 4,
+      "Mirage": 3,
+      "Cache": 3
+    },
+    "winRates": {
+      "Cache": {
+        "CT": 63.5,
+        "T": 36.5
+      },
+      "Cobblestone": {
+        "CT": 61.7,
+        "T": 38.3
+      },
+      "Dust2": {
+        "CT": 47.5,
+        "T": 52.5
+      },
+      "Inferno": {
+        "CT": 53.2,
+        "T": 46.8
+      },
+      "Mirage": {
+        "CT": 62.8,
+        "T": 37.2
+      },
+      "Nuke": {
+        "CT": 57.8,
+        "T": 42.2
+      },
+      "Overpass": {
+        "CT": 61.7,
+        "T": 38.3
+      }
+    }
+  },
+  "EMS One Katowice 2014": {
+    "mapsPlayed": {
+      "Inferno": 16,
+      "Dust2": 7,
+      "Mirage": 7,
+      "Nuke": 4,
+      "Train": 3
+    },
+    "winRates": {
+      "Dust2": {
+        "CT": 43.7,
+        "T": 56.3
+      },
+      "Inferno": {
+        "CT": 56.4,
+        "T": 43.6
+      },
+      "Mirage": {
+        "CT": 50.8,
+        "T": 49.2
+      },
+      "Nuke": {
+        "CT": 59.3,
+        "T": 40.7
+      },
+      "Train": {
+        "CT": 57.5,
+        "T": 42.5
+      }
+    }
+  },
+  "ESL One Cologne 2015": {
+    "mapsPlayed": {
+      "Cobblestone": 8,
+      "Inferno": 7,
+      "Dust2": 6,
+      "Mirage": 6,
+      "Overpass": 4,
+      "Train": 3,
+      "Cache": 2
+    },
+    "winRates": {
+      "Cache": {
+        "CT": 38.3,
+        "T": 61.7
+      },
+      "Cobblestone": {
+        "CT": 47.6,
+        "T": 52.4
+      },
+      "Dust2": {
+        "CT": 44.3,
+        "T": 55.7
+      },
+      "Inferno": {
+        "CT": 55.2,
+        "T": 44.8
+      },
+      "Mirage": {
+        "CT": 55,
+        "T": 45
+      },
+      "Overpass": {
+        "CT": 64.8,
+        "T": 35.2
+      },
+      "Train": {
+        "CT": 62.8,
+        "T": 37.2
+      }
+    }
+  },
+  "ELEAGUE Major 2018": {
+    "mapsPlayed": {
+      "Mirage": 14,
+      "Inferno": 12,
+      "Cache": 7,
+      "Overpass": 6,
+      "Train": 5,
+      "Cobblestone": 4,
+      "Nuke": 2
+    },
+    "winRates": {
+      "Cache": {
+        "CT": 39.9,
+        "T": 60.1
+      },
+      "Cobblestone": {
+        "CT": 34.3,
+        "T": 65.7
+      },
+      "Inferno": {
+        "CT": 55.7,
+        "T": 44.3
+      },
+      "Mirage": {
+        "CT": 54.2,
+        "T": 45.8
+      },
+      "Nuke": {
+        "CT": 35.7,
+        "T": 64.3
+      },
+      "Overpass": {
+        "CT": 62.2,
+        "T": 37.8
+      },
+      "Train": {
+        "CT": 63.8,
+        "T": 36.2
+      }
+    }
+  },
+  "StarLadder Major Berlin 2019": {
+    "mapsPlayed": {
+      "Dust2": 16,
+      "Mirage": 14,
+      "Inferno": 11,
+      "Overpass": 7,
+      "Nuke": 7,
+      "Vertigo": 6,
+      "Train": 5
+    },
+    "winRates": {
+      "Dust2": {
+        "CT": 51.2,
+        "T": 48.8
+      },
+      "Inferno": {
+        "CT": 48.5,
+        "T": 51.5
+      },
+      "Mirage": {
+        "CT": 47.3,
+        "T": 52.7
+      },
+      "Nuke": {
+        "CT": 47.7,
+        "T": 52.3
+      },
+      "Overpass": {
+        "CT": 52.8,
+        "T": 47.2
+      },
+      "Train": {
+        "CT": 54.1,
+        "T": 45.9
+      },
+      "Vertigo": {
+        "CT": 59.2,
+        "T": 40.8
+      }
+    }
+  },
+  "IEM Katowice 2019": {
+    "mapsPlayed": {
+      "Mirage": 16,
+      "Inferno": 13,
+      "Dust2": 11,
+      "Train": 9,
+      "Overpass": 7,
+      "Cache": 6,
+      "Nuke": 4
+    },
+    "winRates": {
+      "Cache": {
+        "CT": 49.7,
+        "T": 50.3
+      },
+      "Dust2": {
+        "CT": 41.6,
+        "T": 58.4
+      },
+      "Inferno": {
+        "CT": 48.8,
+        "T": 51.2
+      },
+      "Mirage": {
+        "CT": 58.9,
+        "T": 41.1
+      },
+      "Nuke": {
+        "CT": 58.5,
+        "T": 41.5
+      },
+      "Overpass": {
+        "CT": 59.9,
+        "T": 40.1
+      },
+      "Train": {
+        "CT": 61,
+        "T": 39
+      }
+    }
+  }
+}
