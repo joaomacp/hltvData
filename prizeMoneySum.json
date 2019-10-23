@@ -1,0 +1,3516 @@
+[{
+  "date": "2013-11-30T11:00:00.000Z",
+  "team": "fnatic",
+  "totalMoney": 100000,
+  "place": 1
+}, {
+  "date": "2013-11-30T11:00:00.000Z",
+  "team": "NiP",
+  "totalMoney": 50000,
+  "place": 2
+}, {
+  "date": "2013-11-30T11:00:00.000Z",
+  "team": "VeryGames",
+  "totalMoney": 22000,
+  "place": 3
+}, {
+  "date": "2013-11-30T11:00:00.000Z",
+  "team": "Complexity",
+  "totalMoney": 22000,
+  "place": 4
+}, {
+  "date": "2013-11-30T11:00:00.000Z",
+  "team": "LGB",
+  "totalMoney": 10000,
+  "place": 5
+}, {
+  "date": "2013-11-30T11:00:00.000Z",
+  "team": "CPH Wolves",
+  "totalMoney": 10000,
+  "place": 6
+}, {
+  "date": "2013-11-30T11:00:00.000Z",
+  "team": "Recursive",
+  "totalMoney": 10000,
+  "place": 7
+}, {
+  "date": "2013-11-30T11:00:00.000Z",
+  "team": "Astana Dragons",
+  "totalMoney": 10000,
+  "place": 8
+}, {
+  "date": "2013-11-30T11:00:00.000Z",
+  "team": "UniversalSoldiers",
+  "totalMoney": 2000,
+  "place": 9
+}, {
+  "date": "2013-11-30T11:00:00.000Z",
+  "team": "Reason",
+  "totalMoney": 2000,
+  "place": 10
+}, {
+  "date": "2013-11-30T11:00:00.000Z",
+  "team": "Clan-Mystik",
+  "totalMoney": 2000,
+  "place": 11
+}, {
+  "date": "2013-11-30T11:00:00.000Z",
+  "team": "n!faculty",
+  "totalMoney": 2000,
+  "place": 12
+}, {
+  "date": "2013-11-30T11:00:00.000Z",
+  "team": "SK",
+  "totalMoney": 2000,
+  "place": 13
+}, {
+  "date": "2013-11-30T11:00:00.000Z",
+  "team": "Natus Vincere",
+  "totalMoney": 2000,
+  "place": 14
+}, {
+  "date": "2013-11-30T11:00:00.000Z",
+  "team": "Xapso",
+  "totalMoney": 2000,
+  "place": 15
+}, {
+  "date": "2013-11-30T11:00:00.000Z",
+  "team": "iBUYPOWER",
+  "totalMoney": 2000,
+  "place": 16
+}, {
+  "date": "2014-03-16T11:00:00.000Z",
+  "team": "fnatic",
+  "totalMoney": 110000,
+  "place": 1
+}, {
+  "date": "2014-03-16T11:00:00.000Z",
+  "team": "NiP",
+  "totalMoney": 100000,
+  "place": 2
+}, {
+  "date": "2014-03-16T11:00:00.000Z",
+  "team": "Virtus.pro",
+  "totalMoney": 100000,
+  "place": 3
+}, {
+  "date": "2014-03-16T11:00:00.000Z",
+  "team": "Complexity",
+  "totalMoney": 32000,
+  "place": 4
+}, {
+  "date": "2014-03-16T11:00:00.000Z",
+  "team": "LGB",
+  "totalMoney": 32000,
+  "place": 5
+}, {
+  "date": "2014-03-16T11:00:00.000Z",
+  "team": "VeryGames",
+  "totalMoney": 22000,
+  "place": 6
+}, {
+  "date": "2014-03-16T11:00:00.000Z",
+  "team": "Dignitas",
+  "totalMoney": 22000,
+  "place": 7
+}, {
+  "date": "2014-03-16T11:00:00.000Z",
+  "team": "CPH Wolves",
+  "totalMoney": 10000,
+  "place": 8
+}, {
+  "date": "2014-03-16T11:00:00.000Z",
+  "team": "Recursive",
+  "totalMoney": 10000,
+  "place": 9
+}, {
+  "date": "2014-03-16T11:00:00.000Z",
+  "team": "Astana Dragons",
+  "totalMoney": 10000,
+  "place": 10
+}, {
+  "date": "2014-03-16T11:00:00.000Z",
+  "team": "LDLC",
+  "totalMoney": 10000,
+  "place": 11
+}, {
+  "date": "2014-03-16T11:00:00.000Z",
+  "team": "HellRaisers",
+  "totalMoney": 10000,
+  "place": 12
+}, {
+  "date": "2014-03-16T11:00:00.000Z",
+  "team": "Reason",
+  "totalMoney": 4000,
+  "place": 13
+}, {
+  "date": "2014-03-16T11:00:00.000Z",
+  "team": "Clan-Mystik",
+  "totalMoney": 4000,
+  "place": 14
+}, {
+  "date": "2014-03-16T11:00:00.000Z",
+  "team": "Natus Vincere",
+  "totalMoney": 4000,
+  "place": 15
+}, {
+  "date": "2014-03-16T11:00:00.000Z",
+  "team": "iBUYPOWER",
+  "totalMoney": 4000,
+  "place": 16
+}, {
+  "date": "2014-03-16T11:00:00.000Z",
+  "team": "UniversalSoldiers",
+  "totalMoney": 2000,
+  "place": 17
+}, {
+  "date": "2014-03-16T11:00:00.000Z",
+  "team": "n!faculty",
+  "totalMoney": 2000,
+  "place": 18
+}, {
+  "date": "2014-03-16T11:00:00.000Z",
+  "team": "SK",
+  "totalMoney": 2000,
+  "place": 19
+}, {
+  "date": "2014-03-16T11:00:00.000Z",
+  "team": "Xapso",
+  "totalMoney": 2000,
+  "place": 20
+}, {
+  "date": "2014-03-16T11:00:00.000Z",
+  "team": "3DMAX",
+  "totalMoney": 2000,
+  "place": 21
+}, {
+  "date": "2014-03-16T11:00:00.000Z",
+  "team": "Titan",
+  "totalMoney": 2000,
+  "place": 22
+}, {
+  "date": "2014-03-16T11:00:00.000Z",
+  "team": "mousesports",
+  "totalMoney": 2000,
+  "place": 23
+}, {
+  "date": "2014-03-16T11:00:00.000Z",
+  "team": "Vox Eminor",
+  "totalMoney": 2000,
+  "place": 24
+}, {
+  "date": "2014-08-17T10:00:00.000Z",
+  "team": "NiP",
+  "totalMoney": 200000,
+  "place": 1
+}, {
+  "date": "2014-08-17T10:00:00.000Z",
+  "team": "fnatic",
+  "totalMoney": 160000,
+  "place": 2
+}, {
+  "date": "2014-08-17T10:00:00.000Z",
+  "team": "Virtus.pro",
+  "totalMoney": 110000,
+  "place": 3
+}, {
+  "date": "2014-08-17T10:00:00.000Z",
+  "team": "Dignitas",
+  "totalMoney": 44000,
+  "place": 4
+}, {
+  "date": "2014-08-17T10:00:00.000Z",
+  "team": "Complexity",
+  "totalMoney": 32000,
+  "place": 5
+}, {
+  "date": "2014-08-17T10:00:00.000Z",
+  "team": "LGB",
+  "totalMoney": 32000,
+  "place": 6
+}, {
+  "date": "2014-08-17T10:00:00.000Z",
+  "team": "LDLC",
+  "totalMoney": 32000,
+  "place": 7
+}, {
+  "date": "2014-08-17T10:00:00.000Z",
+  "team": "VeryGames",
+  "totalMoney": 22000,
+  "place": 8
+}, {
+  "date": "2014-08-17T10:00:00.000Z",
+  "team": "Natus Vincere",
+  "totalMoney": 14000,
+  "place": 9
+}, {
+  "date": "2014-08-17T10:00:00.000Z",
+  "team": "CPH Wolves",
+  "totalMoney": 12000,
+  "place": 10
+}, {
+  "date": "2014-08-17T10:00:00.000Z",
+  "team": "HellRaisers",
+  "totalMoney": 12000,
+  "place": 11
+}, {
+  "date": "2014-08-17T10:00:00.000Z",
+  "team": "Recursive",
+  "totalMoney": 10000,
+  "place": 12
+}, {
+  "date": "2014-08-17T10:00:00.000Z",
+  "team": "Astana Dragons",
+  "totalMoney": 10000,
+  "place": 13
+}, {
+  "date": "2014-08-17T10:00:00.000Z",
+  "team": "Cloud9",
+  "totalMoney": 10000,
+  "place": 14
+}, {
+  "date": "2014-08-17T10:00:00.000Z",
+  "team": "Epsilon",
+  "totalMoney": 10000,
+  "place": 15
+}, {
+  "date": "2014-08-17T10:00:00.000Z",
+  "team": "iBUYPOWER",
+  "totalMoney": 6000,
+  "place": 16
+}, {
+  "date": "2014-08-17T10:00:00.000Z",
+  "team": "Reason",
+  "totalMoney": 4000,
+  "place": 17
+}, {
+  "date": "2014-08-17T10:00:00.000Z",
+  "team": "Clan-Mystik",
+  "totalMoney": 4000,
+  "place": 18
+}, {
+  "date": "2014-08-17T10:00:00.000Z",
+  "team": "Titan",
+  "totalMoney": 4000,
+  "place": 19
+}, {
+  "date": "2014-08-17T10:00:00.000Z",
+  "team": "Vox Eminor",
+  "totalMoney": 4000,
+  "place": 20
+}, {
+  "date": "2014-08-17T10:00:00.000Z",
+  "team": "UniversalSoldiers",
+  "totalMoney": 2000,
+  "place": 21
+}, {
+  "date": "2014-08-17T10:00:00.000Z",
+  "team": "n!faculty",
+  "totalMoney": 2000,
+  "place": 22
+}, {
+  "date": "2014-08-17T10:00:00.000Z",
+  "team": "SK",
+  "totalMoney": 2000,
+  "place": 23
+}, {
+  "date": "2014-08-17T10:00:00.000Z",
+  "team": "Xapso",
+  "totalMoney": 2000,
+  "place": 24
+}, {
+  "date": "2014-08-17T10:00:00.000Z",
+  "team": "3DMAX",
+  "totalMoney": 2000,
+  "place": 25
+}, {
+  "date": "2014-08-17T10:00:00.000Z",
+  "team": "mousesports",
+  "totalMoney": 2000,
+  "place": 26
+}, {
+  "date": "2014-08-17T10:00:00.000Z",
+  "team": "Wolves",
+  "totalMoney": 2000,
+  "place": 27
+}, {
+  "date": "2014-08-17T10:00:00.000Z",
+  "team": "London Conspiracy",
+  "totalMoney": 2000,
+  "place": 28
+}, {
+  "date": "2014-08-17T10:00:00.000Z",
+  "team": "dAT",
+  "totalMoney": 2000,
+  "place": 29
+}, {
+  "date": "2014-11-29T11:00:00.000Z",
+  "team": "NiP",
+  "totalMoney": 250000,
+  "place": 1
+}, {
+  "date": "2014-11-29T11:00:00.000Z",
+  "team": "fnatic",
+  "totalMoney": 170000,
+  "place": 2
+}, {
+  "date": "2014-11-29T11:00:00.000Z",
+  "team": "Virtus.pro",
+  "totalMoney": 132000,
+  "place": 3
+}, {
+  "date": "2014-11-29T11:00:00.000Z",
+  "team": "LDLC",
+  "totalMoney": 132000,
+  "place": 4
+}, {
+  "date": "2014-11-29T11:00:00.000Z",
+  "team": "Dignitas",
+  "totalMoney": 54000,
+  "place": 5
+}, {
+  "date": "2014-11-29T11:00:00.000Z",
+  "team": "Natus Vincere",
+  "totalMoney": 36000,
+  "place": 6
+}, {
+  "date": "2014-11-29T11:00:00.000Z",
+  "team": "Complexity",
+  "totalMoney": 32000,
+  "place": 7
+}, {
+  "date": "2014-11-29T11:00:00.000Z",
+  "team": "LGB",
+  "totalMoney": 32000,
+  "place": 8
+}, {
+  "date": "2014-11-29T11:00:00.000Z",
+  "team": "VeryGames",
+  "totalMoney": 22000,
+  "place": 9
+}, {
+  "date": "2014-11-29T11:00:00.000Z",
+  "team": "HellRaisers",
+  "totalMoney": 22000,
+  "place": 10
+}, {
+  "date": "2014-11-29T11:00:00.000Z",
+  "team": "CPH Wolves",
+  "totalMoney": 14000,
+  "place": 11
+}, {
+  "date": "2014-11-29T11:00:00.000Z",
+  "team": "Cloud9",
+  "totalMoney": 12000,
+  "place": 12
+}, {
+  "date": "2014-11-29T11:00:00.000Z",
+  "team": "Recursive",
+  "totalMoney": 10000,
+  "place": 13
+}, {
+  "date": "2014-11-29T11:00:00.000Z",
+  "team": "Astana Dragons",
+  "totalMoney": 10000,
+  "place": 14
+}, {
+  "date": "2014-11-29T11:00:00.000Z",
+  "team": "Epsilon",
+  "totalMoney": 10000,
+  "place": 15
+}, {
+  "date": "2014-11-29T11:00:00.000Z",
+  "team": "PENTA",
+  "totalMoney": 10000,
+  "place": 16
+}, {
+  "date": "2014-11-29T11:00:00.000Z",
+  "team": "iBUYPOWER",
+  "totalMoney": 8000,
+  "place": 17
+}, {
+  "date": "2014-11-29T11:00:00.000Z",
+  "team": "Reason",
+  "totalMoney": 4000,
+  "place": 18
+}, {
+  "date": "2014-11-29T11:00:00.000Z",
+  "team": "Clan-Mystik",
+  "totalMoney": 4000,
+  "place": 19
+}, {
+  "date": "2014-11-29T11:00:00.000Z",
+  "team": "Titan",
+  "totalMoney": 4000,
+  "place": 20
+}, {
+  "date": "2014-11-29T11:00:00.000Z",
+  "team": "Vox Eminor",
+  "totalMoney": 4000,
+  "place": 21
+}, {
+  "date": "2014-11-29T11:00:00.000Z",
+  "team": "UniversalSoldiers",
+  "totalMoney": 2000,
+  "place": 22
+}, {
+  "date": "2014-11-29T11:00:00.000Z",
+  "team": "n!faculty",
+  "totalMoney": 2000,
+  "place": 23
+}, {
+  "date": "2014-11-29T11:00:00.000Z",
+  "team": "SK",
+  "totalMoney": 2000,
+  "place": 24
+}, {
+  "date": "2014-11-29T11:00:00.000Z",
+  "team": "Xapso",
+  "totalMoney": 2000,
+  "place": 25
+}, {
+  "date": "2014-11-29T11:00:00.000Z",
+  "team": "3DMAX",
+  "totalMoney": 2000,
+  "place": 26
+}, {
+  "date": "2014-11-29T11:00:00.000Z",
+  "team": "mousesports",
+  "totalMoney": 2000,
+  "place": 27
+}, {
+  "date": "2014-11-29T11:00:00.000Z",
+  "team": "Wolves",
+  "totalMoney": 2000,
+  "place": 28
+}, {
+  "date": "2014-11-29T11:00:00.000Z",
+  "team": "London Conspiracy",
+  "totalMoney": 2000,
+  "place": 29
+}, {
+  "date": "2014-11-29T11:00:00.000Z",
+  "team": "dAT",
+  "totalMoney": 2000,
+  "place": 30
+}, {
+  "date": "2014-11-29T11:00:00.000Z",
+  "team": "ESC",
+  "totalMoney": 2000,
+  "place": 31
+}, {
+  "date": "2014-11-29T11:00:00.000Z",
+  "team": "FlipSid3",
+  "totalMoney": 2000,
+  "place": 32
+}, {
+  "date": "2014-11-29T11:00:00.000Z",
+  "team": "Bravado",
+  "totalMoney": 2000,
+  "place": 33
+}, {
+  "date": "2014-11-29T11:00:00.000Z",
+  "team": "myXMG",
+  "totalMoney": 2000,
+  "place": 34
+}, {
+  "date": "2014-11-29T11:00:00.000Z",
+  "team": "Planetkey",
+  "totalMoney": 2000,
+  "place": 35
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "NiP",
+  "totalMoney": 300000,
+  "place": 1
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "fnatic",
+  "totalMoney": 270000,
+  "place": 2
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "Virtus.pro",
+  "totalMoney": 154000,
+  "place": 3
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "LDLC",
+  "totalMoney": 132000,
+  "place": 4
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "Dignitas",
+  "totalMoney": 54000,
+  "place": 5
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "Natus Vincere",
+  "totalMoney": 46000,
+  "place": 6
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "LGB",
+  "totalMoney": 34000,
+  "place": 7
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "Complexity",
+  "totalMoney": 32000,
+  "place": 8
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "HellRaisers",
+  "totalMoney": 24000,
+  "place": 9
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "VeryGames",
+  "totalMoney": 22000,
+  "place": 10
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "Envy",
+  "totalMoney": 22000,
+  "place": 11
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "PENTA",
+  "totalMoney": 20000,
+  "place": 12
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "CPH Wolves",
+  "totalMoney": 14000,
+  "place": 13
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "Cloud9",
+  "totalMoney": 14000,
+  "place": 14
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "Recursive",
+  "totalMoney": 10000,
+  "place": 15
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "Astana Dragons",
+  "totalMoney": 10000,
+  "place": 16
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "Epsilon",
+  "totalMoney": 10000,
+  "place": 17
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "Keyd",
+  "totalMoney": 10000,
+  "place": 18
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "TSM",
+  "totalMoney": 10000,
+  "place": 19
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "iBUYPOWER",
+  "totalMoney": 8000,
+  "place": 20
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "Titan",
+  "totalMoney": 6000,
+  "place": 21
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "Vox Eminor",
+  "totalMoney": 6000,
+  "place": 22
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "Reason",
+  "totalMoney": 4000,
+  "place": 23
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "Clan-Mystik",
+  "totalMoney": 4000,
+  "place": 24
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "3DMAX",
+  "totalMoney": 4000,
+  "place": 25
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "FlipSid3",
+  "totalMoney": 4000,
+  "place": 26
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "UniversalSoldiers",
+  "totalMoney": 2000,
+  "place": 27
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "n!faculty",
+  "totalMoney": 2000,
+  "place": 28
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "SK",
+  "totalMoney": 2000,
+  "place": 29
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "Xapso",
+  "totalMoney": 2000,
+  "place": 30
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "mousesports",
+  "totalMoney": 2000,
+  "place": 31
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "Wolves",
+  "totalMoney": 2000,
+  "place": 32
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "London Conspiracy",
+  "totalMoney": 2000,
+  "place": 33
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "dAT",
+  "totalMoney": 2000,
+  "place": 34
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "ESC",
+  "totalMoney": 2000,
+  "place": 35
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "Bravado",
+  "totalMoney": 2000,
+  "place": 36
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "myXMG",
+  "totalMoney": 2000,
+  "place": 37
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "Planetkey",
+  "totalMoney": 2000,
+  "place": 38
+}, {
+  "date": "2015-03-15T11:00:00.000Z",
+  "team": "CLG",
+  "totalMoney": 2000,
+  "place": 39
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "fnatic",
+  "totalMoney": 370000,
+  "place": 1
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "NiP",
+  "totalMoney": 310000,
+  "place": 2
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "Virtus.pro",
+  "totalMoney": 176000,
+  "place": 3
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "LDLC",
+  "totalMoney": 132000,
+  "place": 4
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "Envy",
+  "totalMoney": 72000,
+  "place": 5
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "Natus Vincere",
+  "totalMoney": 56000,
+  "place": 6
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "Dignitas",
+  "totalMoney": 54000,
+  "place": 7
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "LGB",
+  "totalMoney": 34000,
+  "place": 8
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "Complexity",
+  "totalMoney": 32000,
+  "place": 9
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "TSM",
+  "totalMoney": 32000,
+  "place": 10
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "HellRaisers",
+  "totalMoney": 24000,
+  "place": 11
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "VeryGames",
+  "totalMoney": 22000,
+  "place": 12
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "PENTA",
+  "totalMoney": 20000,
+  "place": 13
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "Cloud9",
+  "totalMoney": 16000,
+  "place": 14
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "CPH Wolves",
+  "totalMoney": 14000,
+  "place": 15
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "Recursive",
+  "totalMoney": 10000,
+  "place": 16
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "Astana Dragons",
+  "totalMoney": 10000,
+  "place": 17
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "Epsilon",
+  "totalMoney": 10000,
+  "place": 18
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "Keyd",
+  "totalMoney": 10000,
+  "place": 19
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "Luminosity",
+  "totalMoney": 10000,
+  "place": 20
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "Kinguin",
+  "totalMoney": 10000,
+  "place": 21
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "iBUYPOWER",
+  "totalMoney": 8000,
+  "place": 22
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "Titan",
+  "totalMoney": 8000,
+  "place": 23
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "Vox Eminor",
+  "totalMoney": 6000,
+  "place": 24
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "FlipSid3",
+  "totalMoney": 6000,
+  "place": 25
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "Reason",
+  "totalMoney": 4000,
+  "place": 26
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "Clan-Mystik",
+  "totalMoney": 4000,
+  "place": 27
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "3DMAX",
+  "totalMoney": 4000,
+  "place": 28
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "mousesports",
+  "totalMoney": 4000,
+  "place": 29
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "CLG",
+  "totalMoney": 4000,
+  "place": 30
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "UniversalSoldiers",
+  "totalMoney": 2000,
+  "place": 31
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "n!faculty",
+  "totalMoney": 2000,
+  "place": 32
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "SK",
+  "totalMoney": 2000,
+  "place": 33
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "Xapso",
+  "totalMoney": 2000,
+  "place": 34
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "Wolves",
+  "totalMoney": 2000,
+  "place": 35
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "London Conspiracy",
+  "totalMoney": 2000,
+  "place": 36
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "dAT",
+  "totalMoney": 2000,
+  "place": 37
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "ESC",
+  "totalMoney": 2000,
+  "place": 38
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "Bravado",
+  "totalMoney": 2000,
+  "place": 39
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "myXMG",
+  "totalMoney": 2000,
+  "place": 40
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "Planetkey",
+  "totalMoney": 2000,
+  "place": 41
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "Renegades",
+  "totalMoney": 2000,
+  "place": 42
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "Immunity",
+  "totalMoney": 2000,
+  "place": 43
+}, {
+  "date": "2015-08-23T10:00:00.000Z",
+  "team": "eBettle",
+  "totalMoney": 2000,
+  "place": 44
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "fnatic",
+  "totalMoney": 380000,
+  "place": 1
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "NiP",
+  "totalMoney": 332000,
+  "place": 2
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "Virtus.pro",
+  "totalMoney": 186000,
+  "place": 3
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "Envy",
+  "totalMoney": 172000,
+  "place": 4
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "LDLC",
+  "totalMoney": 132000,
+  "place": 5
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "Natus Vincere",
+  "totalMoney": 106000,
+  "place": 6
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "Dignitas",
+  "totalMoney": 56000,
+  "place": 7
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "TSM",
+  "totalMoney": 42000,
+  "place": 8
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "LGB",
+  "totalMoney": 34000,
+  "place": 9
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "Complexity",
+  "totalMoney": 32000,
+  "place": 10
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "HellRaisers",
+  "totalMoney": 24000,
+  "place": 11
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "VeryGames",
+  "totalMoney": 22000,
+  "place": 12
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "G2",
+  "totalMoney": 22000,
+  "place": 13
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "PENTA",
+  "totalMoney": 20000,
+  "place": 14
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "Luminosity",
+  "totalMoney": 20000,
+  "place": 15
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "Cloud9",
+  "totalMoney": 18000,
+  "place": 16
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "CPH Wolves",
+  "totalMoney": 14000,
+  "place": 17
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "Recursive",
+  "totalMoney": 10000,
+  "place": 18
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "Astana Dragons",
+  "totalMoney": 10000,
+  "place": 19
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "Titan",
+  "totalMoney": 10000,
+  "place": 20
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "Epsilon",
+  "totalMoney": 10000,
+  "place": 21
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "Keyd",
+  "totalMoney": 10000,
+  "place": 22
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "Kinguin",
+  "totalMoney": 10000,
+  "place": 23
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "iBUYPOWER",
+  "totalMoney": 8000,
+  "place": 24
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "FlipSid3",
+  "totalMoney": 8000,
+  "place": 25
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "mousesports",
+  "totalMoney": 6000,
+  "place": 26
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "Vox Eminor",
+  "totalMoney": 6000,
+  "place": 27
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "CLG",
+  "totalMoney": 6000,
+  "place": 28
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "Reason",
+  "totalMoney": 4000,
+  "place": 29
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "Clan-Mystik",
+  "totalMoney": 4000,
+  "place": 30
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "3DMAX",
+  "totalMoney": 4000,
+  "place": 31
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "UniversalSoldiers",
+  "totalMoney": 2000,
+  "place": 32
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "n!faculty",
+  "totalMoney": 2000,
+  "place": 33
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "SK",
+  "totalMoney": 2000,
+  "place": 34
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "Xapso",
+  "totalMoney": 2000,
+  "place": 35
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "Wolves",
+  "totalMoney": 2000,
+  "place": 36
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "London Conspiracy",
+  "totalMoney": 2000,
+  "place": 37
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "dAT",
+  "totalMoney": 2000,
+  "place": 38
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "ESC",
+  "totalMoney": 2000,
+  "place": 39
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "Bravado",
+  "totalMoney": 2000,
+  "place": 40
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "myXMG",
+  "totalMoney": 2000,
+  "place": 41
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "Planetkey",
+  "totalMoney": 2000,
+  "place": 42
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "Renegades",
+  "totalMoney": 2000,
+  "place": 43
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "Immunity",
+  "totalMoney": 2000,
+  "place": 44
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "eBettle",
+  "totalMoney": 2000,
+  "place": 45
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "Liquid",
+  "totalMoney": 2000,
+  "place": 46
+}, {
+  "date": "2015-11-01T11:00:00.000Z",
+  "team": "Vexed",
+  "totalMoney": 2000,
+  "place": 47
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "Luminosity",
+  "totalMoney": 520000,
+  "place": 1
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "fnatic",
+  "totalMoney": 415000,
+  "place": 2
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "NiP",
+  "totalMoney": 367000,
+  "place": 3
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "Natus Vincere",
+  "totalMoney": 231000,
+  "place": 4
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "Virtus.pro",
+  "totalMoney": 221000,
+  "place": 5
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "Envy",
+  "totalMoney": 180750,
+  "place": 6
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "LDLC",
+  "totalMoney": 132000,
+  "place": 7
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "Liquid",
+  "totalMoney": 72000,
+  "place": 8
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "Astralis",
+  "totalMoney": 70000,
+  "place": 9
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "Dignitas",
+  "totalMoney": 56000,
+  "place": 10
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "TSM",
+  "totalMoney": 42000,
+  "place": 11
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "CLG",
+  "totalMoney": 41000,
+  "place": 12
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "LGB",
+  "totalMoney": 34000,
+  "place": 13
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "Complexity",
+  "totalMoney": 32000,
+  "place": 14
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "G2",
+  "totalMoney": 30750,
+  "place": 15
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "Cloud9",
+  "totalMoney": 26750,
+  "place": 16
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "HellRaisers",
+  "totalMoney": 24000,
+  "place": 17
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "VeryGames",
+  "totalMoney": 22000,
+  "place": 18
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "PENTA",
+  "totalMoney": 20000,
+  "place": 19
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "FlipSid3",
+  "totalMoney": 16750,
+  "place": 20
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "mousesports",
+  "totalMoney": 14750,
+  "place": 21
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "CPH Wolves",
+  "totalMoney": 14000,
+  "place": 22
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "Recursive",
+  "totalMoney": 10000,
+  "place": 23
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "Astana Dragons",
+  "totalMoney": 10000,
+  "place": 24
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "Titan",
+  "totalMoney": 10000,
+  "place": 25
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "Epsilon",
+  "totalMoney": 10000,
+  "place": 26
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "Keyd",
+  "totalMoney": 10000,
+  "place": 27
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "Kinguin",
+  "totalMoney": 10000,
+  "place": 28
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "Gambit",
+  "totalMoney": 8750,
+  "place": 29
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "FaZe",
+  "totalMoney": 8750,
+  "place": 30
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "Splyce",
+  "totalMoney": 8750,
+  "place": 31
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "iBUYPOWER",
+  "totalMoney": 8000,
+  "place": 32
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "Vox Eminor",
+  "totalMoney": 6000,
+  "place": 33
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "Reason",
+  "totalMoney": 4000,
+  "place": 34
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "Clan-Mystik",
+  "totalMoney": 4000,
+  "place": 35
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "3DMAX",
+  "totalMoney": 4000,
+  "place": 36
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "UniversalSoldiers",
+  "totalMoney": 2000,
+  "place": 37
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "n!faculty",
+  "totalMoney": 2000,
+  "place": 38
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "SK",
+  "totalMoney": 2000,
+  "place": 39
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "Xapso",
+  "totalMoney": 2000,
+  "place": 40
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "Wolves",
+  "totalMoney": 2000,
+  "place": 41
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "London Conspiracy",
+  "totalMoney": 2000,
+  "place": 42
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "dAT",
+  "totalMoney": 2000,
+  "place": 43
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "ESC",
+  "totalMoney": 2000,
+  "place": 44
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "Bravado",
+  "totalMoney": 2000,
+  "place": 45
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "myXMG",
+  "totalMoney": 2000,
+  "place": 46
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "Planetkey",
+  "totalMoney": 2000,
+  "place": 47
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "Renegades",
+  "totalMoney": 2000,
+  "place": 48
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "Immunity",
+  "totalMoney": 2000,
+  "place": 49
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "eBettle",
+  "totalMoney": 2000,
+  "place": 50
+}, {
+  "date": "2016-04-03T10:00:00.000Z",
+  "team": "Vexed",
+  "totalMoney": 2000,
+  "place": 51
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "Luminosity",
+  "totalMoney": 520000,
+  "place": 1
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "SK",
+  "totalMoney": 502000,
+  "place": 2
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "fnatic",
+  "totalMoney": 485000,
+  "place": 3
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "NiP",
+  "totalMoney": 375750,
+  "place": 4
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "Virtus.pro",
+  "totalMoney": 291000,
+  "place": 5
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "Natus Vincere",
+  "totalMoney": 266000,
+  "place": 6
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "Liquid",
+  "totalMoney": 222000,
+  "place": 7
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "Envy",
+  "totalMoney": 189500,
+  "place": 8
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "LDLC",
+  "totalMoney": 132000,
+  "place": 9
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "Astralis",
+  "totalMoney": 105000,
+  "place": 10
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "Dignitas",
+  "totalMoney": 64750,
+  "place": 11
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "FlipSid3",
+  "totalMoney": 51750,
+  "place": 12
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "CLG",
+  "totalMoney": 49750,
+  "place": 13
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "Gambit",
+  "totalMoney": 43750,
+  "place": 14
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "TSM",
+  "totalMoney": 42000,
+  "place": 15
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "G2",
+  "totalMoney": 39500,
+  "place": 16
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "LGB",
+  "totalMoney": 34000,
+  "place": 17
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "Complexity",
+  "totalMoney": 32000,
+  "place": 18
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "Cloud9",
+  "totalMoney": 26750,
+  "place": 19
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "HellRaisers",
+  "totalMoney": 24000,
+  "place": 20
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "mousesports",
+  "totalMoney": 23500,
+  "place": 21
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "VeryGames",
+  "totalMoney": 22000,
+  "place": 22
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "PENTA",
+  "totalMoney": 20000,
+  "place": 23
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "FaZe",
+  "totalMoney": 17500,
+  "place": 24
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "CPH Wolves",
+  "totalMoney": 14000,
+  "place": 25
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "Recursive",
+  "totalMoney": 10000,
+  "place": 26
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "Astana Dragons",
+  "totalMoney": 10000,
+  "place": 27
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "Titan",
+  "totalMoney": 10000,
+  "place": 28
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "Epsilon",
+  "totalMoney": 10000,
+  "place": 29
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "Keyd",
+  "totalMoney": 10000,
+  "place": 30
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "Kinguin",
+  "totalMoney": 10000,
+  "place": 31
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "Splyce",
+  "totalMoney": 8750,
+  "place": 32
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "OpTic",
+  "totalMoney": 8750,
+  "place": 33
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "iBUYPOWER",
+  "totalMoney": 8000,
+  "place": 34
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "Vox Eminor",
+  "totalMoney": 6000,
+  "place": 35
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "Reason",
+  "totalMoney": 4000,
+  "place": 36
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "Clan-Mystik",
+  "totalMoney": 4000,
+  "place": 37
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "3DMAX",
+  "totalMoney": 4000,
+  "place": 38
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "UniversalSoldiers",
+  "totalMoney": 2000,
+  "place": 39
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "n!faculty",
+  "totalMoney": 2000,
+  "place": 40
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "Xapso",
+  "totalMoney": 2000,
+  "place": 41
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "Wolves",
+  "totalMoney": 2000,
+  "place": 42
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "London Conspiracy",
+  "totalMoney": 2000,
+  "place": 43
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "dAT",
+  "totalMoney": 2000,
+  "place": 44
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "ESC",
+  "totalMoney": 2000,
+  "place": 45
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "Bravado",
+  "totalMoney": 2000,
+  "place": 46
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "myXMG",
+  "totalMoney": 2000,
+  "place": 47
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "Planetkey",
+  "totalMoney": 2000,
+  "place": 48
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "Renegades",
+  "totalMoney": 2000,
+  "place": 49
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "Immunity",
+  "totalMoney": 2000,
+  "place": 50
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "eBettle",
+  "totalMoney": 2000,
+  "place": 51
+}, {
+  "date": "2016-07-10T10:00:00.000Z",
+  "team": "Vexed",
+  "totalMoney": 2000,
+  "place": 52
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "Astralis",
+  "totalMoney": 605000,
+  "place": 1
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "SK",
+  "totalMoney": 572000,
+  "place": 2
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "fnatic",
+  "totalMoney": 555000,
+  "place": 3
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "Luminosity",
+  "totalMoney": 520000,
+  "place": 4
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "Virtus.pro",
+  "totalMoney": 441000,
+  "place": 5
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "NiP",
+  "totalMoney": 375750,
+  "place": 6
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "Natus Vincere",
+  "totalMoney": 301000,
+  "place": 7
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "Liquid",
+  "totalMoney": 230750,
+  "place": 8
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "Envy",
+  "totalMoney": 198250,
+  "place": 9
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "LDLC",
+  "totalMoney": 132000,
+  "place": 10
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "Gambit",
+  "totalMoney": 78750,
+  "place": 11
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "Dignitas",
+  "totalMoney": 64750,
+  "place": 12
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "FlipSid3",
+  "totalMoney": 60500,
+  "place": 13
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "FaZe",
+  "totalMoney": 52500,
+  "place": 14
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "CLG",
+  "totalMoney": 49750,
+  "place": 15
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "G2",
+  "totalMoney": 48250,
+  "place": 16
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "TSM",
+  "totalMoney": 42000,
+  "place": 17
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "North",
+  "totalMoney": 35000,
+  "place": 18
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "LGB",
+  "totalMoney": 34000,
+  "place": 19
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "HellRaisers",
+  "totalMoney": 32750,
+  "place": 20
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "mousesports",
+  "totalMoney": 32250,
+  "place": 21
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "Complexity",
+  "totalMoney": 32000,
+  "place": 22
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "Cloud9",
+  "totalMoney": 26750,
+  "place": 23
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "VeryGames",
+  "totalMoney": 22000,
+  "place": 24
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "PENTA",
+  "totalMoney": 20000,
+  "place": 25
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "OpTic",
+  "totalMoney": 17500,
+  "place": 26
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "CPH Wolves",
+  "totalMoney": 14000,
+  "place": 27
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "Recursive",
+  "totalMoney": 10000,
+  "place": 28
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "Astana Dragons",
+  "totalMoney": 10000,
+  "place": 29
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "Titan",
+  "totalMoney": 10000,
+  "place": 30
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "Epsilon",
+  "totalMoney": 10000,
+  "place": 31
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "Keyd",
+  "totalMoney": 10000,
+  "place": 32
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "Kinguin",
+  "totalMoney": 10000,
+  "place": 33
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "Splyce",
+  "totalMoney": 8750,
+  "place": 34
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "GODSENT",
+  "totalMoney": 8750,
+  "place": 35
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "iBUYPOWER",
+  "totalMoney": 8000,
+  "place": 36
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "Vox Eminor",
+  "totalMoney": 6000,
+  "place": 37
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "Reason",
+  "totalMoney": 4000,
+  "place": 38
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "Clan-Mystik",
+  "totalMoney": 4000,
+  "place": 39
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "3DMAX",
+  "totalMoney": 4000,
+  "place": 40
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "UniversalSoldiers",
+  "totalMoney": 2000,
+  "place": 41
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "n!faculty",
+  "totalMoney": 2000,
+  "place": 42
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "Xapso",
+  "totalMoney": 2000,
+  "place": 43
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "Wolves",
+  "totalMoney": 2000,
+  "place": 44
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "London Conspiracy",
+  "totalMoney": 2000,
+  "place": 45
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "dAT",
+  "totalMoney": 2000,
+  "place": 46
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "ESC",
+  "totalMoney": 2000,
+  "place": 47
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "Bravado",
+  "totalMoney": 2000,
+  "place": 48
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "myXMG",
+  "totalMoney": 2000,
+  "place": 49
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "Planetkey",
+  "totalMoney": 2000,
+  "place": 50
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "Renegades",
+  "totalMoney": 2000,
+  "place": 51
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "Immunity",
+  "totalMoney": 2000,
+  "place": 52
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "eBettle",
+  "totalMoney": 2000,
+  "place": 53
+}, {
+  "date": "2017-01-29T11:00:00.000Z",
+  "team": "Vexed",
+  "totalMoney": 2000,
+  "place": 54
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "Astralis",
+  "totalMoney": 675000,
+  "place": 1
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "SK",
+  "totalMoney": 607000,
+  "place": 2
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "fnatic",
+  "totalMoney": 590000,
+  "place": 3
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "Gambit",
+  "totalMoney": 578750,
+  "place": 4
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "Luminosity",
+  "totalMoney": 520000,
+  "place": 5
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "Virtus.pro",
+  "totalMoney": 511000,
+  "place": 6
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "NiP",
+  "totalMoney": 375750,
+  "place": 7
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "Natus Vincere",
+  "totalMoney": 309750,
+  "place": 8
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "Liquid",
+  "totalMoney": 230750,
+  "place": 9
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "Envy",
+  "totalMoney": 198250,
+  "place": 10
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "Immortals",
+  "totalMoney": 150000,
+  "place": 11
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "LDLC",
+  "totalMoney": 132000,
+  "place": 12
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "North",
+  "totalMoney": 70000,
+  "place": 13
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "FlipSid3",
+  "totalMoney": 69250,
+  "place": 14
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "Dignitas",
+  "totalMoney": 64750,
+  "place": 15
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "FaZe",
+  "totalMoney": 61250,
+  "place": 16
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "G2",
+  "totalMoney": 57000,
+  "place": 17
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "CLG",
+  "totalMoney": 49750,
+  "place": 18
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "TSM",
+  "totalMoney": 42000,
+  "place": 19
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "mousesports",
+  "totalMoney": 41000,
+  "place": 20
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "Cloud9",
+  "totalMoney": 35500,
+  "place": 21
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "BIG",
+  "totalMoney": 35000,
+  "place": 22
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "LGB",
+  "totalMoney": 34000,
+  "place": 23
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "HellRaisers",
+  "totalMoney": 32750,
+  "place": 24
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "Complexity",
+  "totalMoney": 32000,
+  "place": 25
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "PENTA",
+  "totalMoney": 28750,
+  "place": 26
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "VeryGames",
+  "totalMoney": 22000,
+  "place": 27
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "OpTic",
+  "totalMoney": 17500,
+  "place": 28
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "CPH Wolves",
+  "totalMoney": 14000,
+  "place": 29
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "Recursive",
+  "totalMoney": 10000,
+  "place": 30
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "Astana Dragons",
+  "totalMoney": 10000,
+  "place": 31
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "Titan",
+  "totalMoney": 10000,
+  "place": 32
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "Epsilon",
+  "totalMoney": 10000,
+  "place": 33
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "Keyd",
+  "totalMoney": 10000,
+  "place": 34
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "Kinguin",
+  "totalMoney": 10000,
+  "place": 35
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "Splyce",
+  "totalMoney": 8750,
+  "place": 36
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "GODSENT",
+  "totalMoney": 8750,
+  "place": 37
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "Vega Squadron",
+  "totalMoney": 8750,
+  "place": 38
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "iBUYPOWER",
+  "totalMoney": 8000,
+  "place": 39
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "Vox Eminor",
+  "totalMoney": 6000,
+  "place": 40
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "Reason",
+  "totalMoney": 4000,
+  "place": 41
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "Clan-Mystik",
+  "totalMoney": 4000,
+  "place": 42
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "3DMAX",
+  "totalMoney": 4000,
+  "place": 43
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "UniversalSoldiers",
+  "totalMoney": 2000,
+  "place": 44
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "n!faculty",
+  "totalMoney": 2000,
+  "place": 45
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "Xapso",
+  "totalMoney": 2000,
+  "place": 46
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "Wolves",
+  "totalMoney": 2000,
+  "place": 47
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "London Conspiracy",
+  "totalMoney": 2000,
+  "place": 48
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "dAT",
+  "totalMoney": 2000,
+  "place": 49
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "ESC",
+  "totalMoney": 2000,
+  "place": 50
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "Bravado",
+  "totalMoney": 2000,
+  "place": 51
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "myXMG",
+  "totalMoney": 2000,
+  "place": 52
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "Planetkey",
+  "totalMoney": 2000,
+  "place": 53
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "Renegades",
+  "totalMoney": 2000,
+  "place": 54
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "Immunity",
+  "totalMoney": 2000,
+  "place": 55
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "eBettle",
+  "totalMoney": 2000,
+  "place": 56
+}, {
+  "date": "2017-07-23T10:00:00.000Z",
+  "team": "Vexed",
+  "totalMoney": 2000,
+  "place": 57
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "Astralis",
+  "totalMoney": 683750,
+  "place": 1
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "SK",
+  "totalMoney": 677000,
+  "place": 2
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "fnatic",
+  "totalMoney": 625000,
+  "place": 3
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "Gambit",
+  "totalMoney": 587500,
+  "place": 4
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "Cloud9",
+  "totalMoney": 535500,
+  "place": 5
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "Luminosity",
+  "totalMoney": 520000,
+  "place": 6
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "Virtus.pro",
+  "totalMoney": 519750,
+  "place": 7
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "Natus Vincere",
+  "totalMoney": 379750,
+  "place": 8
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "NiP",
+  "totalMoney": 375750,
+  "place": 9
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "Liquid",
+  "totalMoney": 239500,
+  "place": 10
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "FaZe",
+  "totalMoney": 211250,
+  "place": 11
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "Envy",
+  "totalMoney": 198250,
+  "place": 12
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "Immortals",
+  "totalMoney": 150000,
+  "place": 13
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "LDLC",
+  "totalMoney": 132000,
+  "place": 14
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "G2",
+  "totalMoney": 92000,
+  "place": 15
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "North",
+  "totalMoney": 78750,
+  "place": 16
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "mousesports",
+  "totalMoney": 76000,
+  "place": 17
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "FlipSid3",
+  "totalMoney": 69250,
+  "place": 18
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "Dignitas",
+  "totalMoney": 64750,
+  "place": 19
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "CLG",
+  "totalMoney": 49750,
+  "place": 20
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "BIG",
+  "totalMoney": 43750,
+  "place": 21
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "TSM",
+  "totalMoney": 42000,
+  "place": 22
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "Quantum Bellator Fire",
+  "totalMoney": 35000,
+  "place": 23
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "LGB",
+  "totalMoney": 34000,
+  "place": 24
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "HellRaisers",
+  "totalMoney": 32750,
+  "place": 25
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "Complexity",
+  "totalMoney": 32000,
+  "place": 26
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "PENTA",
+  "totalMoney": 28750,
+  "place": 27
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "VeryGames",
+  "totalMoney": 22000,
+  "place": 28
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "OpTic",
+  "totalMoney": 17500,
+  "place": 29
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "Vega Squadron",
+  "totalMoney": 17500,
+  "place": 30
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "CPH Wolves",
+  "totalMoney": 14000,
+  "place": 31
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "Recursive",
+  "totalMoney": 10000,
+  "place": 32
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "Astana Dragons",
+  "totalMoney": 10000,
+  "place": 33
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "Titan",
+  "totalMoney": 10000,
+  "place": 34
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "Epsilon",
+  "totalMoney": 10000,
+  "place": 35
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "Keyd",
+  "totalMoney": 10000,
+  "place": 36
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "Kinguin",
+  "totalMoney": 10000,
+  "place": 37
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "Splyce",
+  "totalMoney": 8750,
+  "place": 38
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "GODSENT",
+  "totalMoney": 8750,
+  "place": 39
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "Space Soldiers",
+  "totalMoney": 8750,
+  "place": 40
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "iBUYPOWER",
+  "totalMoney": 8000,
+  "place": 41
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "Vox Eminor",
+  "totalMoney": 6000,
+  "place": 42
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "Reason",
+  "totalMoney": 4000,
+  "place": 43
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "Clan-Mystik",
+  "totalMoney": 4000,
+  "place": 44
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "3DMAX",
+  "totalMoney": 4000,
+  "place": 45
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "UniversalSoldiers",
+  "totalMoney": 2000,
+  "place": 46
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "n!faculty",
+  "totalMoney": 2000,
+  "place": 47
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "Xapso",
+  "totalMoney": 2000,
+  "place": 48
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "Wolves",
+  "totalMoney": 2000,
+  "place": 49
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "London Conspiracy",
+  "totalMoney": 2000,
+  "place": 50
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "dAT",
+  "totalMoney": 2000,
+  "place": 51
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "ESC",
+  "totalMoney": 2000,
+  "place": 52
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "Bravado",
+  "totalMoney": 2000,
+  "place": 53
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "myXMG",
+  "totalMoney": 2000,
+  "place": 54
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "Planetkey",
+  "totalMoney": 2000,
+  "place": 55
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "Renegades",
+  "totalMoney": 2000,
+  "place": 56
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "Immunity",
+  "totalMoney": 2000,
+  "place": 57
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "eBettle",
+  "totalMoney": 2000,
+  "place": 58
+}, {
+  "date": "2018-01-28T11:00:00.000Z",
+  "team": "Vexed",
+  "totalMoney": 2000,
+  "place": 59
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "Astralis",
+  "totalMoney": 1183750,
+  "place": 1
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "SK",
+  "totalMoney": 677000,
+  "place": 2
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "fnatic",
+  "totalMoney": 633750,
+  "place": 3
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "Gambit",
+  "totalMoney": 587500,
+  "place": 4
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "Cloud9",
+  "totalMoney": 544250,
+  "place": 5
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "Natus Vincere",
+  "totalMoney": 529750,
+  "place": 6
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "Luminosity",
+  "totalMoney": 520000,
+  "place": 7
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "Virtus.pro",
+  "totalMoney": 519750,
+  "place": 8
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "NiP",
+  "totalMoney": 384500,
+  "place": 9
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "Liquid",
+  "totalMoney": 309500,
+  "place": 10
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "FaZe",
+  "totalMoney": 246250,
+  "place": 11
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "Envy",
+  "totalMoney": 198250,
+  "place": 12
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "Immortals",
+  "totalMoney": 150000,
+  "place": 13
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "LDLC",
+  "totalMoney": 132000,
+  "place": 14
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "G2",
+  "totalMoney": 100750,
+  "place": 15
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "mousesports",
+  "totalMoney": 84750,
+  "place": 16
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "North",
+  "totalMoney": 78750,
+  "place": 17
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "BIG",
+  "totalMoney": 78750,
+  "place": 18
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "MIBR",
+  "totalMoney": 70000,
+  "place": 19
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "FlipSid3",
+  "totalMoney": 69250,
+  "place": 20
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "HellRaisers",
+  "totalMoney": 67750,
+  "place": 21
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "Complexity",
+  "totalMoney": 67000,
+  "place": 22
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "Dignitas",
+  "totalMoney": 64750,
+  "place": 23
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "CLG",
+  "totalMoney": 49750,
+  "place": 24
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "TSM",
+  "totalMoney": 42000,
+  "place": 25
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "Quantum Bellator Fire",
+  "totalMoney": 35000,
+  "place": 26
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "LGB",
+  "totalMoney": 34000,
+  "place": 27
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "PENTA",
+  "totalMoney": 28750,
+  "place": 28
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "Vega Squadron",
+  "totalMoney": 26250,
+  "place": 29
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "VeryGames",
+  "totalMoney": 22000,
+  "place": 30
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "OpTic",
+  "totalMoney": 17500,
+  "place": 31
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "CPH Wolves",
+  "totalMoney": 14000,
+  "place": 32
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "Recursive",
+  "totalMoney": 10000,
+  "place": 33
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "Astana Dragons",
+  "totalMoney": 10000,
+  "place": 34
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "Titan",
+  "totalMoney": 10000,
+  "place": 35
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "Epsilon",
+  "totalMoney": 10000,
+  "place": 36
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "Keyd",
+  "totalMoney": 10000,
+  "place": 37
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "Kinguin",
+  "totalMoney": 10000,
+  "place": 38
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "Splyce",
+  "totalMoney": 8750,
+  "place": 39
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "GODSENT",
+  "totalMoney": 8750,
+  "place": 40
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "Space Soldiers",
+  "totalMoney": 8750,
+  "place": 41
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "TYLOO",
+  "totalMoney": 8750,
+  "place": 42
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "Winstrike",
+  "totalMoney": 8750,
+  "place": 43
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "iBUYPOWER",
+  "totalMoney": 8000,
+  "place": 44
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "Vox Eminor",
+  "totalMoney": 6000,
+  "place": 45
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "Reason",
+  "totalMoney": 4000,
+  "place": 46
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "Clan-Mystik",
+  "totalMoney": 4000,
+  "place": 47
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "3DMAX",
+  "totalMoney": 4000,
+  "place": 48
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "UniversalSoldiers",
+  "totalMoney": 2000,
+  "place": 49
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "n!faculty",
+  "totalMoney": 2000,
+  "place": 50
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "Xapso",
+  "totalMoney": 2000,
+  "place": 51
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "Wolves",
+  "totalMoney": 2000,
+  "place": 52
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "London Conspiracy",
+  "totalMoney": 2000,
+  "place": 53
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "dAT",
+  "totalMoney": 2000,
+  "place": 54
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "ESC",
+  "totalMoney": 2000,
+  "place": 55
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "Bravado",
+  "totalMoney": 2000,
+  "place": 56
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "myXMG",
+  "totalMoney": 2000,
+  "place": 57
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "Planetkey",
+  "totalMoney": 2000,
+  "place": 58
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "Renegades",
+  "totalMoney": 2000,
+  "place": 59
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "Immunity",
+  "totalMoney": 2000,
+  "place": 60
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "eBettle",
+  "totalMoney": 2000,
+  "place": 61
+}, {
+  "date": "2018-09-23T10:00:00.000Z",
+  "team": "Vexed",
+  "totalMoney": 2000,
+  "place": 62
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "Astralis",
+  "totalMoney": 1683750,
+  "place": 1
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "SK",
+  "totalMoney": 677000,
+  "place": 2
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "fnatic",
+  "totalMoney": 633750,
+  "place": 3
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "Natus Vincere",
+  "totalMoney": 599750,
+  "place": 4
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "Gambit",
+  "totalMoney": 587500,
+  "place": 5
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "Cloud9",
+  "totalMoney": 553000,
+  "place": 6
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "Luminosity",
+  "totalMoney": 520000,
+  "place": 7
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "Virtus.pro",
+  "totalMoney": 519750,
+  "place": 8
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "NiP",
+  "totalMoney": 419500,
+  "place": 9
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "Liquid",
+  "totalMoney": 344500,
+  "place": 10
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "FaZe",
+  "totalMoney": 281250,
+  "place": 11
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "Envy",
+  "totalMoney": 198250,
+  "place": 12
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "Immortals",
+  "totalMoney": 150000,
+  "place": 13
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "ENCE",
+  "totalMoney": 150000,
+  "place": 14
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "MIBR",
+  "totalMoney": 140000,
+  "place": 15
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "LDLC",
+  "totalMoney": 132000,
+  "place": 16
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "G2",
+  "totalMoney": 109500,
+  "place": 17
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "BIG",
+  "totalMoney": 87500,
+  "place": 18
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "mousesports",
+  "totalMoney": 84750,
+  "place": 19
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "North",
+  "totalMoney": 78750,
+  "place": 20
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "HellRaisers",
+  "totalMoney": 76500,
+  "place": 21
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "Complexity",
+  "totalMoney": 75750,
+  "place": 22
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "FlipSid3",
+  "totalMoney": 69250,
+  "place": 23
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "Dignitas",
+  "totalMoney": 64750,
+  "place": 24
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "CLG",
+  "totalMoney": 49750,
+  "place": 25
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "TSM",
+  "totalMoney": 42000,
+  "place": 26
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "Renegades",
+  "totalMoney": 37000,
+  "place": 27
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "Quantum Bellator Fire",
+  "totalMoney": 35000,
+  "place": 28
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "LGB",
+  "totalMoney": 34000,
+  "place": 29
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "PENTA",
+  "totalMoney": 28750,
+  "place": 30
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "Vega Squadron",
+  "totalMoney": 26250,
+  "place": 31
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "VeryGames",
+  "totalMoney": 22000,
+  "place": 32
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "OpTic",
+  "totalMoney": 17500,
+  "place": 33
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "CPH Wolves",
+  "totalMoney": 14000,
+  "place": 34
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "Recursive",
+  "totalMoney": 10000,
+  "place": 35
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "Astana Dragons",
+  "totalMoney": 10000,
+  "place": 36
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "Titan",
+  "totalMoney": 10000,
+  "place": 37
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "Epsilon",
+  "totalMoney": 10000,
+  "place": 38
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "Keyd",
+  "totalMoney": 10000,
+  "place": 39
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "Kinguin",
+  "totalMoney": 10000,
+  "place": 40
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "Splyce",
+  "totalMoney": 8750,
+  "place": 41
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "GODSENT",
+  "totalMoney": 8750,
+  "place": 42
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "Space Soldiers",
+  "totalMoney": 8750,
+  "place": 43
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "TYLOO",
+  "totalMoney": 8750,
+  "place": 44
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "Winstrike",
+  "totalMoney": 8750,
+  "place": 45
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "AVANGAR",
+  "totalMoney": 8750,
+  "place": 46
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "Vitality",
+  "totalMoney": 8750,
+  "place": 47
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "NRG",
+  "totalMoney": 8750,
+  "place": 48
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "iBUYPOWER",
+  "totalMoney": 8000,
+  "place": 49
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "Vox Eminor",
+  "totalMoney": 6000,
+  "place": 50
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "Reason",
+  "totalMoney": 4000,
+  "place": 51
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "Clan-Mystik",
+  "totalMoney": 4000,
+  "place": 52
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "3DMAX",
+  "totalMoney": 4000,
+  "place": 53
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "UniversalSoldiers",
+  "totalMoney": 2000,
+  "place": 54
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "n!faculty",
+  "totalMoney": 2000,
+  "place": 55
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "Xapso",
+  "totalMoney": 2000,
+  "place": 56
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "Wolves",
+  "totalMoney": 2000,
+  "place": 57
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "London Conspiracy",
+  "totalMoney": 2000,
+  "place": 58
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "dAT",
+  "totalMoney": 2000,
+  "place": 59
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "ESC",
+  "totalMoney": 2000,
+  "place": 60
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "Bravado",
+  "totalMoney": 2000,
+  "place": 61
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "myXMG",
+  "totalMoney": 2000,
+  "place": 62
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "Planetkey",
+  "totalMoney": 2000,
+  "place": 63
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "Immunity",
+  "totalMoney": 2000,
+  "place": 64
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "eBettle",
+  "totalMoney": 2000,
+  "place": 65
+}, {
+  "date": "2019-03-03T11:00:00.000Z",
+  "team": "Vexed",
+  "totalMoney": 2000,
+  "place": 66
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "Astralis",
+  "totalMoney": 2183750,
+  "place": 1
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "SK",
+  "totalMoney": 677000,
+  "place": 2
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "Natus Vincere",
+  "totalMoney": 634750,
+  "place": 3
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "fnatic",
+  "totalMoney": 633750,
+  "place": 4
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "Gambit",
+  "totalMoney": 587500,
+  "place": 5
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "Cloud9",
+  "totalMoney": 553000,
+  "place": 6
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "Luminosity",
+  "totalMoney": 520000,
+  "place": 7
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "Virtus.pro",
+  "totalMoney": 519750,
+  "place": 8
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "NiP",
+  "totalMoney": 428250,
+  "place": 9
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "Liquid",
+  "totalMoney": 379500,
+  "place": 10
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "FaZe",
+  "totalMoney": 290000,
+  "place": 11
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "Envy",
+  "totalMoney": 198250,
+  "place": 12
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "ENCE",
+  "totalMoney": 185000,
+  "place": 13
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "AVANGAR",
+  "totalMoney": 158750,
+  "place": 14
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "Immortals",
+  "totalMoney": 150000,
+  "place": 15
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "MIBR",
+  "totalMoney": 148750,
+  "place": 16
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "LDLC",
+  "totalMoney": 132000,
+  "place": 17
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "G2",
+  "totalMoney": 118250,
+  "place": 18
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "Renegades",
+  "totalMoney": 107000,
+  "place": 19
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "mousesports",
+  "totalMoney": 93500,
+  "place": 20
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "North",
+  "totalMoney": 87500,
+  "place": 21
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "BIG",
+  "totalMoney": 87500,
+  "place": 22
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "NRG",
+  "totalMoney": 78750,
+  "place": 23
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "HellRaisers",
+  "totalMoney": 76500,
+  "place": 24
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "Complexity",
+  "totalMoney": 75750,
+  "place": 25
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "FlipSid3",
+  "totalMoney": 69250,
+  "place": 26
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "Dignitas",
+  "totalMoney": 64750,
+  "place": 27
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "CLG",
+  "totalMoney": 49750,
+  "place": 28
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "Vitality",
+  "totalMoney": 43750,
+  "place": 29
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "TSM",
+  "totalMoney": 42000,
+  "place": 30
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "Quantum Bellator Fire",
+  "totalMoney": 35000,
+  "place": 31
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "LGB",
+  "totalMoney": 34000,
+  "place": 32
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "PENTA",
+  "totalMoney": 28750,
+  "place": 33
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "Vega Squadron",
+  "totalMoney": 26250,
+  "place": 34
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "VeryGames",
+  "totalMoney": 22000,
+  "place": 35
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "OpTic",
+  "totalMoney": 17500,
+  "place": 36
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "CPH Wolves",
+  "totalMoney": 14000,
+  "place": 37
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "Recursive",
+  "totalMoney": 10000,
+  "place": 38
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "Astana Dragons",
+  "totalMoney": 10000,
+  "place": 39
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "Titan",
+  "totalMoney": 10000,
+  "place": 40
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "Epsilon",
+  "totalMoney": 10000,
+  "place": 41
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "Keyd",
+  "totalMoney": 10000,
+  "place": 42
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "Kinguin",
+  "totalMoney": 10000,
+  "place": 43
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "Splyce",
+  "totalMoney": 8750,
+  "place": 44
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "GODSENT",
+  "totalMoney": 8750,
+  "place": 45
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "Space Soldiers",
+  "totalMoney": 8750,
+  "place": 46
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "TYLOO",
+  "totalMoney": 8750,
+  "place": 47
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "Winstrike",
+  "totalMoney": 8750,
+  "place": 48
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "CR4ZY",
+  "totalMoney": 8750,
+  "place": 49
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "DreamEaters",
+  "totalMoney": 8750,
+  "place": 50
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "iBUYPOWER",
+  "totalMoney": 8000,
+  "place": 51
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "Vox Eminor",
+  "totalMoney": 6000,
+  "place": 52
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "Reason",
+  "totalMoney": 4000,
+  "place": 53
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "Clan-Mystik",
+  "totalMoney": 4000,
+  "place": 54
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "3DMAX",
+  "totalMoney": 4000,
+  "place": 55
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "UniversalSoldiers",
+  "totalMoney": 2000,
+  "place": 56
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "n!faculty",
+  "totalMoney": 2000,
+  "place": 57
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "Xapso",
+  "totalMoney": 2000,
+  "place": 58
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "Wolves",
+  "totalMoney": 2000,
+  "place": 59
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "London Conspiracy",
+  "totalMoney": 2000,
+  "place": 60
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "dAT",
+  "totalMoney": 2000,
+  "place": 61
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "ESC",
+  "totalMoney": 2000,
+  "place": 62
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "Bravado",
+  "totalMoney": 2000,
+  "place": 63
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "myXMG",
+  "totalMoney": 2000,
+  "place": 64
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "Planetkey",
+  "totalMoney": 2000,
+  "place": 65
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "Immunity",
+  "totalMoney": 2000,
+  "place": 66
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "eBettle",
+  "totalMoney": 2000,
+  "place": 67
+}, {
+  "date": "2019-09-08T10:00:00.000Z",
+  "team": "Vexed",
+  "totalMoney": 2000,
+  "place": 68
+}]
