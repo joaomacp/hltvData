@@ -39,7 +39,7 @@ for(const event of eventData) {
     currEventScoreSystemSum.push({
       date: event.date,
       team: teamName,
-      totalPoints: teamSums[teamName].scoreSystem.toFixed(2)
+      totalPoints: Number(teamSums[teamName].scoreSystem.toFixed(2))
     });
   }
 
