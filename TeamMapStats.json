@@ -1,0 +1,6126 @@
+[{
+  "eventId": 1270,
+  "teamId": 4991,
+  "map": "Dust2",
+  "timesPlayed": "2",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "20"
+}, {
+  "eventId": 1270,
+  "teamId": 4991,
+  "map": "Inferno",
+  "timesPlayed": "4",
+  "ctRoundsWon": "35",
+  "tRoundsWon": "19"
+}, {
+  "eventId": 1270,
+  "teamId": 4991,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "22"
+}, {
+  "eventId": 1270,
+  "teamId": 4991,
+  "map": "Train",
+  "timesPlayed": "2",
+  "ctRoundsWon": "23",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 1270,
+  "teamId": 4411,
+  "map": "Dust2",
+  "timesPlayed": "3",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "34"
+}, {
+  "eventId": 1270,
+  "teamId": 4411,
+  "map": "Inferno",
+  "timesPlayed": "5",
+  "ctRoundsWon": "34",
+  "tRoundsWon": "36"
+}, {
+  "eventId": 1270,
+  "teamId": 4411,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 1270,
+  "teamId": 4411,
+  "map": "Train",
+  "timesPlayed": "2",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 1270,
+  "teamId": 4467,
+  "map": "Dust2",
+  "timesPlayed": "3",
+  "ctRoundsWon": "18",
+  "tRoundsWon": "27"
+}, {
+  "eventId": 1270,
+  "teamId": 4467,
+  "map": "Inferno",
+  "timesPlayed": "4",
+  "ctRoundsWon": "33",
+  "tRoundsWon": "18"
+}, {
+  "eventId": 1270,
+  "teamId": 4467,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 1270,
+  "teamId": 4467,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "1",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 1270,
+  "teamId": 5005,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 1270,
+  "teamId": 5005,
+  "map": "Inferno",
+  "timesPlayed": "4",
+  "ctRoundsWon": "32",
+  "tRoundsWon": "23"
+}, {
+  "eventId": 1270,
+  "teamId": 5005,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 1270,
+  "teamId": 5005,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 1270,
+  "teamId": 5028,
+  "map": "Dust2",
+  "timesPlayed": "2",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "19"
+}, {
+  "eventId": 1270,
+  "teamId": 5028,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "17",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1270,
+  "teamId": 5028,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 1270,
+  "teamId": 5028,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "0"
+}, {
+  "eventId": 1270,
+  "teamId": 4548,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "1",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 1270,
+  "teamId": 4548,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "15",
+  "tRoundsWon": "17"
+}, {
+  "eventId": 1270,
+  "teamId": 4548,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 1270,
+  "teamId": 4548,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "12",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 1270,
+  "teamId": 5261,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 1270,
+  "teamId": 5261,
+  "map": "Inferno",
+  "timesPlayed": "4",
+  "ctRoundsWon": "34",
+  "tRoundsWon": "20"
+}, {
+  "eventId": 1270,
+  "teamId": 5261,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 1270,
+  "teamId": 4984,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "1",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1270,
+  "teamId": 4984,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "15",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 1270,
+  "teamId": 4984,
+  "map": "Nuke",
+  "timesPlayed": "3",
+  "ctRoundsWon": "23",
+  "tRoundsWon": "16"
+}, {
+  "eventId": 1270,
+  "teamId": 4533,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1270,
+  "teamId": 4533,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "15",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 1270,
+  "teamId": 5208,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "19"
+}, {
+  "eventId": 1270,
+  "teamId": 5208,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 1270,
+  "teamId": 4948,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 1270,
+  "teamId": 4948,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 1270,
+  "teamId": 4983,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 1270,
+  "teamId": 4983,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "0",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 1270,
+  "teamId": 4983,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 1270,
+  "teamId": 6137,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 1270,
+  "teamId": 4608,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "12"
+}, {
+  "eventId": 1270,
+  "teamId": 5217,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 1270,
+  "teamId": 5217,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "0"
+}, {
+  "eventId": 1270,
+  "teamId": 5231,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 1270,
+  "teamId": 5231,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 1333,
+  "teamId": 5378,
+  "map": "Inferno",
+  "timesPlayed": "3",
+  "ctRoundsWon": "35",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 1333,
+  "teamId": 5378,
+  "map": "Mirage",
+  "timesPlayed": "5",
+  "ctRoundsWon": "37",
+  "tRoundsWon": "47"
+}, {
+  "eventId": 1333,
+  "teamId": 5378,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 1333,
+  "teamId": 4411,
+  "map": "Dust2",
+  "timesPlayed": "2",
+  "ctRoundsWon": "16",
+  "tRoundsWon": "12"
+}, {
+  "eventId": 1333,
+  "teamId": 4411,
+  "map": "Inferno",
+  "timesPlayed": "3",
+  "ctRoundsWon": "29",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 1333,
+  "teamId": 4411,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 1333,
+  "teamId": 4411,
+  "map": "Nuke",
+  "timesPlayed": "2",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "24"
+}, {
+  "eventId": 1333,
+  "teamId": 4411,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 1333,
+  "teamId": 5422,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1333,
+  "teamId": 5422,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "14",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 1333,
+  "teamId": 5422,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 1333,
+  "teamId": 5422,
+  "map": "Nuke",
+  "timesPlayed": "2",
+  "ctRoundsWon": "18",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 1333,
+  "teamId": 5028,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "11"
+}, {
+  "eventId": 1333,
+  "teamId": 5028,
+  "map": "Inferno",
+  "timesPlayed": "3",
+  "ctRoundsWon": "22",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 1333,
+  "teamId": 5028,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "23",
+  "tRoundsWon": "12"
+}, {
+  "eventId": 1333,
+  "teamId": 5028,
+  "map": "Train",
+  "timesPlayed": "2",
+  "ctRoundsWon": "16",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 1333,
+  "teamId": 4991,
+  "map": "Inferno",
+  "timesPlayed": "4",
+  "ctRoundsWon": "31",
+  "tRoundsWon": "29"
+}, {
+  "eventId": 1333,
+  "teamId": 4991,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 1333,
+  "teamId": 4991,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1333,
+  "teamId": 4674,
+  "map": "Inferno",
+  "timesPlayed": "4",
+  "ctRoundsWon": "22",
+  "tRoundsWon": "25"
+}, {
+  "eventId": 1333,
+  "teamId": 4674,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "0",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 1333,
+  "teamId": 5310,
+  "map": "Dust2",
+  "timesPlayed": "2",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "15"
+}, {
+  "eventId": 1333,
+  "teamId": 5310,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 1333,
+  "teamId": 5310,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "13",
+  "tRoundsWon": "14"
+}, {
+  "eventId": 1333,
+  "teamId": 5005,
+  "map": "Dust2",
+  "timesPlayed": "2",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "18"
+}, {
+  "eventId": 1333,
+  "teamId": 5005,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "12"
+}, {
+  "eventId": 1333,
+  "teamId": 5005,
+  "map": "Nuke",
+  "timesPlayed": "2",
+  "ctRoundsWon": "13",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 1333,
+  "teamId": 5005,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1333,
+  "teamId": 4948,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 1333,
+  "teamId": 4948,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 1333,
+  "teamId": 4948,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 1333,
+  "teamId": 5208,
+  "map": "Inferno",
+  "timesPlayed": "3",
+  "ctRoundsWon": "20",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 1333,
+  "teamId": 4448,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "2",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 1333,
+  "teamId": 4448,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "18"
+}, {
+  "eventId": 1333,
+  "teamId": 5284,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1333,
+  "teamId": 5284,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1333,
+  "teamId": 5284,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 1333,
+  "teamId": 4494,
+  "map": "Dust2",
+  "timesPlayed": "2",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 1333,
+  "teamId": 4784,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "12",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 1333,
+  "teamId": 4608,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 1333,
+  "teamId": 4608,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 1333,
+  "teamId": 5231,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 1333,
+  "teamId": 5231,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 1444,
+  "teamId": 4411,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 1444,
+  "teamId": 4411,
+  "map": "Cobblestone",
+  "timesPlayed": "4",
+  "ctRoundsWon": "36",
+  "tRoundsWon": "18"
+}, {
+  "eventId": 1444,
+  "teamId": 4411,
+  "map": "Dust2",
+  "timesPlayed": "2",
+  "ctRoundsWon": "13",
+  "tRoundsWon": "19"
+}, {
+  "eventId": 1444,
+  "teamId": 4411,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "14",
+  "tRoundsWon": "12"
+}, {
+  "eventId": 1444,
+  "teamId": 4411,
+  "map": "Nuke",
+  "timesPlayed": "2",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "16"
+}, {
+  "eventId": 1444,
+  "teamId": 4411,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1444,
+  "teamId": 4991,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 1444,
+  "teamId": 4991,
+  "map": "Cobblestone",
+  "timesPlayed": "2",
+  "ctRoundsWon": "20",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 1444,
+  "teamId": 4991,
+  "map": "Dust2",
+  "timesPlayed": "2",
+  "ctRoundsWon": "13",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 1444,
+  "teamId": 4991,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "19",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 1444,
+  "teamId": 4991,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 1444,
+  "teamId": 4991,
+  "map": "Overpass",
+  "timesPlayed": "2",
+  "ctRoundsWon": "24",
+  "tRoundsWon": "11"
+}, {
+  "eventId": 1444,
+  "teamId": 5422,
+  "map": "Dust2",
+  "timesPlayed": "3",
+  "ctRoundsWon": "25",
+  "tRoundsWon": "18"
+}, {
+  "eventId": 1444,
+  "teamId": 5422,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "2",
+  "tRoundsWon": "14"
+}, {
+  "eventId": 1444,
+  "teamId": 5422,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 1444,
+  "teamId": 5422,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "14",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 1444,
+  "teamId": 5422,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 1444,
+  "teamId": 4674,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1444,
+  "teamId": 4674,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 1444,
+  "teamId": 4674,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "13",
+  "tRoundsWon": "19"
+}, {
+  "eventId": 1444,
+  "teamId": 4674,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1444,
+  "teamId": 4674,
+  "map": "Nuke",
+  "timesPlayed": "2",
+  "ctRoundsWon": "19",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 1444,
+  "teamId": 5752,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1444,
+  "teamId": 5752,
+  "map": "Dust2",
+  "timesPlayed": "2",
+  "ctRoundsWon": "15",
+  "tRoundsWon": "21"
+}, {
+  "eventId": 1444,
+  "teamId": 5752,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 1444,
+  "teamId": 5752,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 1444,
+  "teamId": 5378,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "13",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 1444,
+  "teamId": 5378,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 1444,
+  "teamId": 5378,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 1444,
+  "teamId": 5378,
+  "map": "Overpass",
+  "timesPlayed": "2",
+  "ctRoundsWon": "19",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 1444,
+  "teamId": 4456,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 1444,
+  "teamId": 4456,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 1444,
+  "teamId": 4456,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "15",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 1444,
+  "teamId": 4608,
+  "map": "Dust2",
+  "timesPlayed": "2",
+  "ctRoundsWon": "19",
+  "tRoundsWon": "16"
+}, {
+  "eventId": 1444,
+  "teamId": 4608,
+  "map": "Inferno",
+  "timesPlayed": "3",
+  "ctRoundsWon": "26",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 1444,
+  "teamId": 4608,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 1444,
+  "teamId": 5284,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 1444,
+  "teamId": 5284,
+  "map": "Nuke",
+  "timesPlayed": "2",
+  "ctRoundsWon": "14",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 1444,
+  "teamId": 5231,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "0",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 1444,
+  "teamId": 5231,
+  "map": "Cobblestone",
+  "timesPlayed": "2",
+  "ctRoundsWon": "13",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 1444,
+  "teamId": 4548,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 1444,
+  "teamId": 4548,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "11"
+}, {
+  "eventId": 1444,
+  "teamId": 4548,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 1444,
+  "teamId": 5310,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "0",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 1444,
+  "teamId": 5310,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 1444,
+  "teamId": 5310,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 1444,
+  "teamId": 5741,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 1444,
+  "teamId": 5741,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "0",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 1444,
+  "teamId": 5569,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "1",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 1444,
+  "teamId": 5569,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "0",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 1444,
+  "teamId": 5593,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 1444,
+  "teamId": 5593,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "1",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1444,
+  "teamId": 4784,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1444,
+  "teamId": 4784,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "0",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 1553,
+  "teamId": 4674,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 1553,
+  "teamId": 4674,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "15",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 1553,
+  "teamId": 4674,
+  "map": "Dust2",
+  "timesPlayed": "3",
+  "ctRoundsWon": "25",
+  "tRoundsWon": "23"
+}, {
+  "eventId": 1553,
+  "teamId": 4674,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 1553,
+  "teamId": 4674,
+  "map": "Overpass",
+  "timesPlayed": "2",
+  "ctRoundsWon": "23",
+  "tRoundsWon": "12"
+}, {
+  "eventId": 1553,
+  "teamId": 4411,
+  "map": "Cache",
+  "timesPlayed": "2",
+  "ctRoundsWon": "16",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 1553,
+  "teamId": 4411,
+  "map": "Dust2",
+  "timesPlayed": "2",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "22"
+}, {
+  "eventId": 1553,
+  "teamId": 4411,
+  "map": "Inferno",
+  "timesPlayed": "3",
+  "ctRoundsWon": "35",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 1553,
+  "teamId": 4411,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "14",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 1553,
+  "teamId": 4411,
+  "map": "Overpass",
+  "timesPlayed": "3",
+  "ctRoundsWon": "32",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 1553,
+  "teamId": 5378,
+  "map": "Cache",
+  "timesPlayed": "2",
+  "ctRoundsWon": "18",
+  "tRoundsWon": "14"
+}, {
+  "eventId": 1553,
+  "teamId": 5378,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "21",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 1553,
+  "teamId": 5378,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "12"
+}, {
+  "eventId": 1553,
+  "teamId": 5378,
+  "map": "Nuke",
+  "timesPlayed": "2",
+  "ctRoundsWon": "27",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 1553,
+  "teamId": 4608,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "12",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 1553,
+  "teamId": 4608,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 1553,
+  "teamId": 4608,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 1553,
+  "teamId": 4608,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "26",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1553,
+  "teamId": 4608,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "1",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 1553,
+  "teamId": 4608,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 1553,
+  "teamId": 5310,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "2",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 1553,
+  "teamId": 5310,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "18"
+}, {
+  "eventId": 1553,
+  "teamId": 5310,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "12",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 1553,
+  "teamId": 5395,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 1553,
+  "teamId": 5395,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1553,
+  "teamId": 5395,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "14",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 1553,
+  "teamId": 5395,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 1553,
+  "teamId": 5395,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 1553,
+  "teamId": 5422,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "0",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 1553,
+  "teamId": 5422,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "12",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 1553,
+  "teamId": 5422,
+  "map": "Nuke",
+  "timesPlayed": "2",
+  "ctRoundsWon": "26",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1553,
+  "teamId": 4991,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "11"
+}, {
+  "eventId": 1553,
+  "teamId": 4991,
+  "map": "Dust2",
+  "timesPlayed": "2",
+  "ctRoundsWon": "17",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 1553,
+  "teamId": 4991,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "24",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1553,
+  "teamId": 5231,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "13",
+  "tRoundsWon": "0"
+}, {
+  "eventId": 1553,
+  "teamId": 5231,
+  "map": "Nuke",
+  "timesPlayed": "2",
+  "ctRoundsWon": "17",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1553,
+  "teamId": 4532,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 1553,
+  "teamId": 4532,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "0"
+}, {
+  "eventId": 1553,
+  "teamId": 4532,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 1553,
+  "teamId": 5752,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "15",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 1553,
+  "teamId": 5752,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "2",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 1553,
+  "teamId": 5752,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "2",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 1553,
+  "teamId": 5988,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "13",
+  "tRoundsWon": "11"
+}, {
+  "eventId": 1553,
+  "teamId": 5988,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 1553,
+  "teamId": 4548,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 1553,
+  "teamId": 4548,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "1",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 1553,
+  "teamId": 5158,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "1",
+  "tRoundsWon": "0"
+}, {
+  "eventId": 1553,
+  "teamId": 5158,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "0",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 1553,
+  "teamId": 5758,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "1",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 1553,
+  "teamId": 5758,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 1553,
+  "teamId": 5195,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 1553,
+  "teamId": 5195,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "0",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 1611,
+  "teamId": 4991,
+  "map": "Cache",
+  "timesPlayed": "2",
+  "ctRoundsWon": "20",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1611,
+  "teamId": 4991,
+  "map": "Cobblestone",
+  "timesPlayed": "2",
+  "ctRoundsWon": "13",
+  "tRoundsWon": "22"
+}, {
+  "eventId": 1611,
+  "teamId": 4991,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1611,
+  "teamId": 4991,
+  "map": "Inferno",
+  "timesPlayed": "3",
+  "ctRoundsWon": "29",
+  "tRoundsWon": "19"
+}, {
+  "eventId": 1611,
+  "teamId": 4991,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 1611,
+  "teamId": 4411,
+  "map": "Cache",
+  "timesPlayed": "2",
+  "ctRoundsWon": "14",
+  "tRoundsWon": "18"
+}, {
+  "eventId": 1611,
+  "teamId": 4411,
+  "map": "Dust2",
+  "timesPlayed": "3",
+  "ctRoundsWon": "22",
+  "tRoundsWon": "24"
+}, {
+  "eventId": 1611,
+  "teamId": 4411,
+  "map": "Inferno",
+  "timesPlayed": "3",
+  "ctRoundsWon": "16",
+  "tRoundsWon": "17"
+}, {
+  "eventId": 1611,
+  "teamId": 4411,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 1611,
+  "teamId": 4411,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 1611,
+  "teamId": 5378,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 1611,
+  "teamId": 5378,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "12",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 1611,
+  "teamId": 5378,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "13",
+  "tRoundsWon": "11"
+}, {
+  "eventId": 1611,
+  "teamId": 5378,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "14",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 1611,
+  "teamId": 5378,
+  "map": "Overpass",
+  "timesPlayed": "2",
+  "ctRoundsWon": "25",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 1611,
+  "teamId": 5991,
+  "map": "Cache",
+  "timesPlayed": "3",
+  "ctRoundsWon": "24",
+  "tRoundsWon": "17"
+}, {
+  "eventId": 1611,
+  "teamId": 5991,
+  "map": "Cobblestone",
+  "timesPlayed": "2",
+  "ctRoundsWon": "22",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 1611,
+  "teamId": 5991,
+  "map": "Dust2",
+  "timesPlayed": "2",
+  "ctRoundsWon": "15",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 1611,
+  "teamId": 4608,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 1611,
+  "teamId": 4608,
+  "map": "Cobblestone",
+  "timesPlayed": "2",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 1611,
+  "teamId": 4608,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 1611,
+  "teamId": 4608,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "14",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 1611,
+  "teamId": 4608,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "14",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 1611,
+  "teamId": 6033,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 1611,
+  "teamId": 6033,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "13",
+  "tRoundsWon": "12"
+}, {
+  "eventId": 1611,
+  "teamId": 6033,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "1",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 1611,
+  "teamId": 6033,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "0",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 1611,
+  "teamId": 6033,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "14",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 1611,
+  "teamId": 5996,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 1611,
+  "teamId": 5996,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "11"
+}, {
+  "eventId": 1611,
+  "teamId": 5996,
+  "map": "Nuke",
+  "timesPlayed": "3",
+  "ctRoundsWon": "30",
+  "tRoundsWon": "12"
+}, {
+  "eventId": 1611,
+  "teamId": 5996,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 1611,
+  "teamId": 5395,
+  "map": "Cache",
+  "timesPlayed": "2",
+  "ctRoundsWon": "15",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 1611,
+  "teamId": 5395,
+  "map": "Dust2",
+  "timesPlayed": "2",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 1611,
+  "teamId": 5395,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 1611,
+  "teamId": 5752,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 1611,
+  "teamId": 5752,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "14",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 1611,
+  "teamId": 5752,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "2",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1611,
+  "teamId": 5974,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "2",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1611,
+  "teamId": 5974,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "2",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 1611,
+  "teamId": 5974,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "14",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 1611,
+  "teamId": 5962,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "2",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1611,
+  "teamId": 5962,
+  "map": "Dust2",
+  "timesPlayed": "2",
+  "ctRoundsWon": "18",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 1611,
+  "teamId": 4784,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "13",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 1611,
+  "teamId": 4784,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 1611,
+  "teamId": 5284,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "0",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 1611,
+  "teamId": 5284,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1611,
+  "teamId": 5310,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 1611,
+  "teamId": 5310,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "13",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 1611,
+  "teamId": 5789,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 1611,
+  "teamId": 5789,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "2",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 1611,
+  "teamId": 5988,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "0",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 1611,
+  "teamId": 5988,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "1",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 1666,
+  "teamId": 4991,
+  "map": "Cobblestone",
+  "timesPlayed": "2",
+  "ctRoundsWon": "15",
+  "tRoundsWon": "17"
+}, {
+  "eventId": 1666,
+  "teamId": 4991,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 1666,
+  "teamId": 4991,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "21",
+  "tRoundsWon": "11"
+}, {
+  "eventId": 1666,
+  "teamId": 4991,
+  "map": "Mirage",
+  "timesPlayed": "3",
+  "ctRoundsWon": "28",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 1666,
+  "teamId": 4991,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "12",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 1666,
+  "teamId": 5991,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 1666,
+  "teamId": 5991,
+  "map": "Cobblestone",
+  "timesPlayed": "2",
+  "ctRoundsWon": "15",
+  "tRoundsWon": "11"
+}, {
+  "eventId": 1666,
+  "teamId": 5991,
+  "map": "Dust2",
+  "timesPlayed": "2",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "12"
+}, {
+  "eventId": 1666,
+  "teamId": 5991,
+  "map": "Inferno",
+  "timesPlayed": "3",
+  "ctRoundsWon": "25",
+  "tRoundsWon": "23"
+}, {
+  "eventId": 1666,
+  "teamId": 5991,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 1666,
+  "teamId": 5378,
+  "map": "Cobblestone",
+  "timesPlayed": "3",
+  "ctRoundsWon": "17",
+  "tRoundsWon": "22"
+}, {
+  "eventId": 1666,
+  "teamId": 5378,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "18",
+  "tRoundsWon": "12"
+}, {
+  "eventId": 1666,
+  "teamId": 5378,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 1666,
+  "teamId": 5378,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1666,
+  "teamId": 5996,
+  "map": "Cache",
+  "timesPlayed": "2",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "19"
+}, {
+  "eventId": 1666,
+  "teamId": 5996,
+  "map": "Dust2",
+  "timesPlayed": "2",
+  "ctRoundsWon": "16",
+  "tRoundsWon": "16"
+}, {
+  "eventId": 1666,
+  "teamId": 5996,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1666,
+  "teamId": 5996,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 1666,
+  "teamId": 5996,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1666,
+  "teamId": 6290,
+  "map": "Cobblestone",
+  "timesPlayed": "2",
+  "ctRoundsWon": "22",
+  "tRoundsWon": "16"
+}, {
+  "eventId": 1666,
+  "teamId": 6290,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 1666,
+  "teamId": 6290,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1666,
+  "teamId": 6290,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "2",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 1666,
+  "teamId": 6134,
+  "map": "Dust2",
+  "timesPlayed": "3",
+  "ctRoundsWon": "16",
+  "tRoundsWon": "22"
+}, {
+  "eventId": 1666,
+  "teamId": 6134,
+  "map": "Overpass",
+  "timesPlayed": "2",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1666,
+  "teamId": 4608,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 1666,
+  "teamId": 4608,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 1666,
+  "teamId": 4608,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "2",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 1666,
+  "teamId": 4608,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "14",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 1666,
+  "teamId": 4411,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "0"
+}, {
+  "eventId": 1666,
+  "teamId": 4411,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 1666,
+  "teamId": 4411,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "13",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 1666,
+  "teamId": 4411,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 1666,
+  "teamId": 5988,
+  "map": "Cobblestone",
+  "timesPlayed": "2",
+  "ctRoundsWon": "19",
+  "tRoundsWon": "15"
+}, {
+  "eventId": 1666,
+  "teamId": 5988,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "0",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 1666,
+  "teamId": 6211,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "2",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 1666,
+  "teamId": 6211,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 1666,
+  "teamId": 6211,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 1666,
+  "teamId": 5752,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "1",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 1666,
+  "teamId": 5752,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 1666,
+  "teamId": 5752,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 1666,
+  "teamId": 5974,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 1666,
+  "teamId": 5974,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 1666,
+  "teamId": 5974,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1666,
+  "teamId": 4494,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 1666,
+  "teamId": 4494,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 1666,
+  "teamId": 4791,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "2",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1666,
+  "teamId": 4791,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 1666,
+  "teamId": 5284,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1666,
+  "teamId": 5284,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "13",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 1666,
+  "teamId": 6245,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1617,
+  "teamId": 5991,
+  "map": "Cache",
+  "timesPlayed": "2",
+  "ctRoundsWon": "13",
+  "tRoundsWon": "19"
+}, {
+  "eventId": 1617,
+  "teamId": 5991,
+  "map": "Cobblestone",
+  "timesPlayed": "3",
+  "ctRoundsWon": "25",
+  "tRoundsWon": "23"
+}, {
+  "eventId": 1617,
+  "teamId": 5991,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 1617,
+  "teamId": 5991,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "14",
+  "tRoundsWon": "11"
+}, {
+  "eventId": 1617,
+  "teamId": 5991,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "15",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 1617,
+  "teamId": 5991,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 1617,
+  "teamId": 4608,
+  "map": "Cobblestone",
+  "timesPlayed": "3",
+  "ctRoundsWon": "18",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 1617,
+  "teamId": 4608,
+  "map": "Dust2",
+  "timesPlayed": "2",
+  "ctRoundsWon": "20",
+  "tRoundsWon": "12"
+}, {
+  "eventId": 1617,
+  "teamId": 4608,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "13",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 1617,
+  "teamId": 4608,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 1617,
+  "teamId": 4608,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1617,
+  "teamId": 4608,
+  "map": "Train",
+  "timesPlayed": "3",
+  "ctRoundsWon": "21",
+  "tRoundsWon": "25"
+}, {
+  "eventId": 1617,
+  "teamId": 5995,
+  "map": "Cache",
+  "timesPlayed": "3",
+  "ctRoundsWon": "21",
+  "tRoundsWon": "18"
+}, {
+  "eventId": 1617,
+  "teamId": 5995,
+  "map": "Dust2",
+  "timesPlayed": "2",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 1617,
+  "teamId": 5995,
+  "map": "Inferno",
+  "timesPlayed": "3",
+  "ctRoundsWon": "23",
+  "tRoundsWon": "26"
+}, {
+  "eventId": 1617,
+  "teamId": 5995,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 1617,
+  "teamId": 5995,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "12",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 1617,
+  "teamId": 4411,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1617,
+  "teamId": 4411,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 1617,
+  "teamId": 4411,
+  "map": "Dust2",
+  "timesPlayed": "3",
+  "ctRoundsWon": "21",
+  "tRoundsWon": "17"
+}, {
+  "eventId": 1617,
+  "teamId": 4411,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 1617,
+  "teamId": 4411,
+  "map": "Train",
+  "timesPlayed": "2",
+  "ctRoundsWon": "13",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1617,
+  "teamId": 5996,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 1617,
+  "teamId": 5996,
+  "map": "Dust2",
+  "timesPlayed": "2",
+  "ctRoundsWon": "14",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 1617,
+  "teamId": 5996,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 1617,
+  "teamId": 5378,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 1617,
+  "teamId": 5378,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "12"
+}, {
+  "eventId": 1617,
+  "teamId": 5378,
+  "map": "Train",
+  "timesPlayed": "2",
+  "ctRoundsWon": "20",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 1617,
+  "teamId": 6290,
+  "map": "Dust2",
+  "timesPlayed": "2",
+  "ctRoundsWon": "16",
+  "tRoundsWon": "14"
+}, {
+  "eventId": 1617,
+  "teamId": 6290,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 1617,
+  "teamId": 6290,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 1617,
+  "teamId": 4991,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "2",
+  "tRoundsWon": "0"
+}, {
+  "eventId": 1617,
+  "teamId": 4991,
+  "map": "Cobblestone",
+  "timesPlayed": "2",
+  "ctRoundsWon": "14",
+  "tRoundsWon": "11"
+}, {
+  "eventId": 1617,
+  "teamId": 4991,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 1617,
+  "teamId": 4991,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 1617,
+  "teamId": 4991,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 1617,
+  "teamId": 4991,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1617,
+  "teamId": 5974,
+  "map": "Cobblestone",
+  "timesPlayed": "3",
+  "ctRoundsWon": "22",
+  "tRoundsWon": "22"
+}, {
+  "eventId": 1617,
+  "teamId": 5974,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 1617,
+  "teamId": 5974,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1617,
+  "teamId": 5752,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 1617,
+  "teamId": 5752,
+  "map": "Dust2",
+  "timesPlayed": "2",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 1617,
+  "teamId": 5752,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 1617,
+  "teamId": 4494,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "1",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 1617,
+  "teamId": 4494,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "14",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 1617,
+  "teamId": 4494,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 1617,
+  "teamId": 4494,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "12"
+}, {
+  "eventId": 1617,
+  "teamId": 5284,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 1617,
+  "teamId": 5284,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "13",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 1617,
+  "teamId": 5284,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "0",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 1617,
+  "teamId": 5284,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "1",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1617,
+  "teamId": 5988,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "2",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 1617,
+  "teamId": 5988,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 1617,
+  "teamId": 5973,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 1617,
+  "teamId": 5973,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 1617,
+  "teamId": 5422,
+  "map": "Cobblestone",
+  "timesPlayed": "2",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 1617,
+  "teamId": 6375,
+  "map": "Cobblestone",
+  "timesPlayed": "2",
+  "ctRoundsWon": "17",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 2027,
+  "teamId": 6290,
+  "map": "Cache",
+  "timesPlayed": "2",
+  "ctRoundsWon": "17",
+  "tRoundsWon": "19"
+}, {
+  "eventId": 2027,
+  "teamId": 6290,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 2027,
+  "teamId": 6290,
+  "map": "Mirage",
+  "timesPlayed": "4",
+  "ctRoundsWon": "42",
+  "tRoundsWon": "28"
+}, {
+  "eventId": 2027,
+  "teamId": 6290,
+  "map": "Overpass",
+  "timesPlayed": "2",
+  "ctRoundsWon": "17",
+  "tRoundsWon": "15"
+}, {
+  "eventId": 2027,
+  "teamId": 4608,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "12"
+}, {
+  "eventId": 2027,
+  "teamId": 4608,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "12"
+}, {
+  "eventId": 2027,
+  "teamId": 4608,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "20",
+  "tRoundsWon": "12"
+}, {
+  "eventId": 2027,
+  "teamId": 4608,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "17",
+  "tRoundsWon": "16"
+}, {
+  "eventId": 2027,
+  "teamId": 4608,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "0",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 2027,
+  "teamId": 4608,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 2027,
+  "teamId": 5973,
+  "map": "Cache",
+  "timesPlayed": "3",
+  "ctRoundsWon": "16",
+  "tRoundsWon": "32"
+}, {
+  "eventId": 2027,
+  "teamId": 5973,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 2027,
+  "teamId": 5973,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "16",
+  "tRoundsWon": "15"
+}, {
+  "eventId": 2027,
+  "teamId": 6665,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 2027,
+  "teamId": 6665,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 2027,
+  "teamId": 6665,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 2027,
+  "teamId": 6665,
+  "map": "Overpass",
+  "timesPlayed": "2",
+  "ctRoundsWon": "19",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 2027,
+  "teamId": 6665,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 2027,
+  "teamId": 5974,
+  "map": "Cache",
+  "timesPlayed": "2",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "20"
+}, {
+  "eventId": 2027,
+  "teamId": 5974,
+  "map": "Cobblestone",
+  "timesPlayed": "2",
+  "ctRoundsWon": "18",
+  "tRoundsWon": "14"
+}, {
+  "eventId": 2027,
+  "teamId": 5974,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "15"
+}, {
+  "eventId": 2027,
+  "teamId": 5974,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 2027,
+  "teamId": 4991,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "2",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 2027,
+  "teamId": 4991,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 2027,
+  "teamId": 4991,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "11"
+}, {
+  "eventId": 2027,
+  "teamId": 4991,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 2027,
+  "teamId": 4991,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 2027,
+  "teamId": 4991,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 2027,
+  "teamId": 4411,
+  "map": "Cache",
+  "timesPlayed": "2",
+  "ctRoundsWon": "13",
+  "tRoundsWon": "18"
+}, {
+  "eventId": 2027,
+  "teamId": 4411,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "11"
+}, {
+  "eventId": 2027,
+  "teamId": 4411,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 2027,
+  "teamId": 4411,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 2027,
+  "teamId": 4411,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 2027,
+  "teamId": 5378,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "12"
+}, {
+  "eventId": 2027,
+  "teamId": 5378,
+  "map": "Cobblestone",
+  "timesPlayed": "3",
+  "ctRoundsWon": "15",
+  "tRoundsWon": "15"
+}, {
+  "eventId": 2027,
+  "teamId": 5378,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 2027,
+  "teamId": 5378,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 2027,
+  "teamId": 5378,
+  "map": "Train",
+  "timesPlayed": "2",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "24"
+}, {
+  "eventId": 2027,
+  "teamId": 6651,
+  "map": "Cache",
+  "timesPlayed": "2",
+  "ctRoundsWon": "12",
+  "tRoundsWon": "20"
+}, {
+  "eventId": 2027,
+  "teamId": 6651,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 2027,
+  "teamId": 6651,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 2027,
+  "teamId": 6651,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 2027,
+  "teamId": 4494,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 2027,
+  "teamId": 4494,
+  "map": "Cobblestone",
+  "timesPlayed": "2",
+  "ctRoundsWon": "25",
+  "tRoundsWon": "11"
+}, {
+  "eventId": 2027,
+  "teamId": 4494,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 2027,
+  "teamId": 4494,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 2027,
+  "teamId": 6667,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 2027,
+  "teamId": 6667,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "1",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 2027,
+  "teamId": 6667,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "12"
+}, {
+  "eventId": 2027,
+  "teamId": 6667,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 2027,
+  "teamId": 5995,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 2027,
+  "teamId": 5995,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "12",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 2027,
+  "teamId": 5995,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 2027,
+  "teamId": 5995,
+  "map": "Train",
+  "timesPlayed": "2",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 2027,
+  "teamId": 5752,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "0",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 2027,
+  "teamId": 5752,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 2027,
+  "teamId": 5991,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 2027,
+  "teamId": 5991,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "0",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 2027,
+  "teamId": 6301,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "0"
+}, {
+  "eventId": 2027,
+  "teamId": 6301,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "2",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 2027,
+  "teamId": 5988,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 2027,
+  "teamId": 5988,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "19",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 2062,
+  "teamId": 6137,
+  "map": "Cobblestone",
+  "timesPlayed": "4",
+  "ctRoundsWon": "39",
+  "tRoundsWon": "26"
+}, {
+  "eventId": 2062,
+  "teamId": 6137,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "14",
+  "tRoundsWon": "18"
+}, {
+  "eventId": 2062,
+  "teamId": 6137,
+  "map": "Nuke",
+  "timesPlayed": "2",
+  "ctRoundsWon": "22",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 2062,
+  "teamId": 6137,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 2062,
+  "teamId": 5973,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 2062,
+  "teamId": 5973,
+  "map": "Cobblestone",
+  "timesPlayed": "5",
+  "ctRoundsWon": "22",
+  "tRoundsWon": "44"
+}, {
+  "eventId": 2062,
+  "teamId": 5973,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 2062,
+  "teamId": 5973,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 2062,
+  "teamId": 5973,
+  "map": "Train",
+  "timesPlayed": "3",
+  "ctRoundsWon": "24",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 2062,
+  "teamId": 4991,
+  "map": "Cache",
+  "timesPlayed": "3",
+  "ctRoundsWon": "22",
+  "tRoundsWon": "23"
+}, {
+  "eventId": 2062,
+  "teamId": 4991,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 2062,
+  "teamId": 4991,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 2062,
+  "teamId": 4991,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 2062,
+  "teamId": 4991,
+  "map": "Train",
+  "timesPlayed": "2",
+  "ctRoundsWon": "13",
+  "tRoundsWon": "19"
+}, {
+  "eventId": 2062,
+  "teamId": 5378,
+  "map": "Cobblestone",
+  "timesPlayed": "2",
+  "ctRoundsWon": "17",
+  "tRoundsWon": "18"
+}, {
+  "eventId": 2062,
+  "teamId": 5378,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 2062,
+  "teamId": 5378,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "2",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 2062,
+  "teamId": 5378,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "13",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 2062,
+  "teamId": 5378,
+  "map": "Train",
+  "timesPlayed": "2",
+  "ctRoundsWon": "21",
+  "tRoundsWon": "14"
+}, {
+  "eventId": 2062,
+  "teamId": 5988,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "14",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 2062,
+  "teamId": 5988,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "12"
+}, {
+  "eventId": 2062,
+  "teamId": 5988,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 2062,
+  "teamId": 5988,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 2062,
+  "teamId": 5988,
+  "map": "Train",
+  "timesPlayed": "2",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "12"
+}, {
+  "eventId": 2062,
+  "teamId": 4608,
+  "map": "Cobblestone",
+  "timesPlayed": "2",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "14"
+}, {
+  "eventId": 2062,
+  "teamId": 4608,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 2062,
+  "teamId": 4608,
+  "map": "Train",
+  "timesPlayed": "2",
+  "ctRoundsWon": "24",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 2062,
+  "teamId": 6651,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "0"
+}, {
+  "eventId": 2062,
+  "teamId": 6651,
+  "map": "Dust2",
+  "timesPlayed": "2",
+  "ctRoundsWon": "15",
+  "tRoundsWon": "17"
+}, {
+  "eventId": 2062,
+  "teamId": 6651,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 2062,
+  "teamId": 6665,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 2062,
+  "teamId": 6665,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 2062,
+  "teamId": 6665,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "0"
+}, {
+  "eventId": 2062,
+  "teamId": 6665,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 2062,
+  "teamId": 6665,
+  "map": "Overpass",
+  "timesPlayed": "2",
+  "ctRoundsWon": "20",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 2062,
+  "teamId": 6665,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 2062,
+  "teamId": 4411,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "1",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 2062,
+  "teamId": 4411,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 2062,
+  "teamId": 4411,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "11"
+}, {
+  "eventId": 2062,
+  "teamId": 4411,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 2062,
+  "teamId": 4411,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 2062,
+  "teamId": 4494,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 2062,
+  "teamId": 4494,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "2",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 2062,
+  "teamId": 4494,
+  "map": "Train",
+  "timesPlayed": "2",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "16"
+}, {
+  "eventId": 2062,
+  "teamId": 5422,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 2062,
+  "teamId": 5422,
+  "map": "Cobblestone",
+  "timesPlayed": "2",
+  "ctRoundsWon": "14",
+  "tRoundsWon": "21"
+}, {
+  "eventId": 2062,
+  "teamId": 5422,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "2",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 2062,
+  "teamId": 5422,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 2062,
+  "teamId": 6667,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 2062,
+  "teamId": 6667,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 2062,
+  "teamId": 6667,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 2062,
+  "teamId": 6667,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 2062,
+  "teamId": 5991,
+  "map": "Train",
+  "timesPlayed": "2",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 2062,
+  "teamId": 5995,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 2062,
+  "teamId": 5995,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 2062,
+  "teamId": 6615,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "0"
+}, {
+  "eventId": 2062,
+  "teamId": 6615,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 2062,
+  "teamId": 5974,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "1",
+  "tRoundsWon": "0"
+}, {
+  "eventId": 2062,
+  "teamId": 5974,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 2471,
+  "teamId": 6665,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 2471,
+  "teamId": 6665,
+  "map": "Dust2",
+  "timesPlayed": "2",
+  "ctRoundsWon": "17",
+  "tRoundsWon": "16"
+}, {
+  "eventId": 2471,
+  "teamId": 6665,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "18",
+  "tRoundsWon": "12"
+}, {
+  "eventId": 2471,
+  "teamId": 6665,
+  "map": "Nuke",
+  "timesPlayed": "2",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "18"
+}, {
+  "eventId": 2471,
+  "teamId": 6665,
+  "map": "Overpass",
+  "timesPlayed": "2",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "21"
+}, {
+  "eventId": 2471,
+  "teamId": 6665,
+  "map": "Train",
+  "timesPlayed": "4",
+  "ctRoundsWon": "22",
+  "tRoundsWon": "32"
+}, {
+  "eventId": 2471,
+  "teamId": 5378,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 2471,
+  "teamId": 5378,
+  "map": "Cobblestone",
+  "timesPlayed": "3",
+  "ctRoundsWon": "29",
+  "tRoundsWon": "19"
+}, {
+  "eventId": 2471,
+  "teamId": 5378,
+  "map": "Nuke",
+  "timesPlayed": "2",
+  "ctRoundsWon": "16",
+  "tRoundsWon": "16"
+}, {
+  "eventId": 2471,
+  "teamId": 5378,
+  "map": "Overpass",
+  "timesPlayed": "2",
+  "ctRoundsWon": "20",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 2471,
+  "teamId": 5378,
+  "map": "Train",
+  "timesPlayed": "3",
+  "ctRoundsWon": "26",
+  "tRoundsWon": "23"
+}, {
+  "eventId": 2471,
+  "teamId": 6137,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 2471,
+  "teamId": 6137,
+  "map": "Dust2",
+  "timesPlayed": "2",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 2471,
+  "teamId": 6137,
+  "map": "Mirage",
+  "timesPlayed": "3",
+  "ctRoundsWon": "16",
+  "tRoundsWon": "26"
+}, {
+  "eventId": 2471,
+  "teamId": 6137,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 2471,
+  "teamId": 6137,
+  "map": "Train",
+  "timesPlayed": "2",
+  "ctRoundsWon": "16",
+  "tRoundsWon": "17"
+}, {
+  "eventId": 2471,
+  "teamId": 4991,
+  "map": "Cache",
+  "timesPlayed": "3",
+  "ctRoundsWon": "16",
+  "tRoundsWon": "26"
+}, {
+  "eventId": 2471,
+  "teamId": 4991,
+  "map": "Cobblestone",
+  "timesPlayed": "2",
+  "ctRoundsWon": "12",
+  "tRoundsWon": "20"
+}, {
+  "eventId": 2471,
+  "teamId": 4991,
+  "map": "Dust2",
+  "timesPlayed": "2",
+  "ctRoundsWon": "17",
+  "tRoundsWon": "15"
+}, {
+  "eventId": 2471,
+  "teamId": 4991,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 2471,
+  "teamId": 4991,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "0"
+}, {
+  "eventId": 2471,
+  "teamId": 4608,
+  "map": "Cobblestone",
+  "timesPlayed": "2",
+  "ctRoundsWon": "25",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 2471,
+  "teamId": 4608,
+  "map": "Dust2",
+  "timesPlayed": "2",
+  "ctRoundsWon": "20",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 2471,
+  "teamId": 4608,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 2471,
+  "teamId": 4608,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 2471,
+  "teamId": 6651,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 2471,
+  "teamId": 6651,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 2471,
+  "teamId": 6651,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 2471,
+  "teamId": 6651,
+  "map": "Overpass",
+  "timesPlayed": "3",
+  "ctRoundsWon": "23",
+  "tRoundsWon": "25"
+}, {
+  "eventId": 2471,
+  "teamId": 6651,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 2471,
+  "teamId": 6667,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "22"
+}, {
+  "eventId": 2471,
+  "teamId": 6667,
+  "map": "Nuke",
+  "timesPlayed": "3",
+  "ctRoundsWon": "29",
+  "tRoundsWon": "25"
+}, {
+  "eventId": 2471,
+  "teamId": 6667,
+  "map": "Overpass",
+  "timesPlayed": "2",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "12"
+}, {
+  "eventId": 2471,
+  "teamId": 6667,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "0"
+}, {
+  "eventId": 2471,
+  "teamId": 7533,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 2471,
+  "teamId": 7533,
+  "map": "Cobblestone",
+  "timesPlayed": "3",
+  "ctRoundsWon": "21",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 2471,
+  "teamId": 7533,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 2471,
+  "teamId": 7533,
+  "map": "Overpass",
+  "timesPlayed": "3",
+  "ctRoundsWon": "18",
+  "tRoundsWon": "21"
+}, {
+  "eventId": 2471,
+  "teamId": 5973,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 2471,
+  "teamId": 5973,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "0",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 2471,
+  "teamId": 5973,
+  "map": "Nuke",
+  "timesPlayed": "2",
+  "ctRoundsWon": "21",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 2471,
+  "teamId": 5973,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 2471,
+  "teamId": 6902,
+  "map": "Cache",
+  "timesPlayed": "2",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 2471,
+  "teamId": 6902,
+  "map": "Overpass",
+  "timesPlayed": "2",
+  "ctRoundsWon": "14",
+  "tRoundsWon": "12"
+}, {
+  "eventId": 2471,
+  "teamId": 6902,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "12",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 2471,
+  "teamId": 5991,
+  "map": "Cache",
+  "timesPlayed": "2",
+  "ctRoundsWon": "23",
+  "tRoundsWon": "18"
+}, {
+  "eventId": 2471,
+  "teamId": 5991,
+  "map": "Cobblestone",
+  "timesPlayed": "2",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "11"
+}, {
+  "eventId": 2471,
+  "teamId": 5991,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 2471,
+  "teamId": 4494,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "12",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 2471,
+  "teamId": 4494,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "1",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 2471,
+  "teamId": 4494,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 2471,
+  "teamId": 4494,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "0",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 2471,
+  "teamId": 5995,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 2471,
+  "teamId": 5995,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 2471,
+  "teamId": 5995,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 2471,
+  "teamId": 5995,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 2471,
+  "teamId": 6615,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 2471,
+  "teamId": 6615,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 2471,
+  "teamId": 6615,
+  "map": "Train",
+  "timesPlayed": "2",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "18"
+}, {
+  "eventId": 2471,
+  "teamId": 5310,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 2471,
+  "teamId": 5310,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "11"
+}, {
+  "eventId": 2471,
+  "teamId": 5988,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 2471,
+  "teamId": 5988,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 2471,
+  "teamId": 5988,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 2720,
+  "teamId": 6651,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 2720,
+  "teamId": 6651,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 2720,
+  "teamId": 6651,
+  "map": "Inferno",
+  "timesPlayed": "4",
+  "ctRoundsWon": "32",
+  "tRoundsWon": "24"
+}, {
+  "eventId": 2720,
+  "teamId": 6651,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 2720,
+  "teamId": 6651,
+  "map": "Train",
+  "timesPlayed": "4",
+  "ctRoundsWon": "33",
+  "tRoundsWon": "31"
+}, {
+  "eventId": 2720,
+  "teamId": 7010,
+  "map": "Cobblestone",
+  "timesPlayed": "2",
+  "ctRoundsWon": "16",
+  "tRoundsWon": "17"
+}, {
+  "eventId": 2720,
+  "teamId": 7010,
+  "map": "Inferno",
+  "timesPlayed": "3",
+  "ctRoundsWon": "24",
+  "tRoundsWon": "18"
+}, {
+  "eventId": 2720,
+  "teamId": 7010,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 2720,
+  "teamId": 7010,
+  "map": "Overpass",
+  "timesPlayed": "3",
+  "ctRoundsWon": "22",
+  "tRoundsWon": "20"
+}, {
+  "eventId": 2720,
+  "teamId": 7010,
+  "map": "Train",
+  "timesPlayed": "4",
+  "ctRoundsWon": "30",
+  "tRoundsWon": "29"
+}, {
+  "eventId": 2720,
+  "teamId": 5378,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "12",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 2720,
+  "teamId": 5378,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 2720,
+  "teamId": 5378,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 2720,
+  "teamId": 5378,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "16",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 2720,
+  "teamId": 5378,
+  "map": "Nuke",
+  "timesPlayed": "2",
+  "ctRoundsWon": "12",
+  "tRoundsWon": "20"
+}, {
+  "eventId": 2720,
+  "teamId": 5378,
+  "map": "Train",
+  "timesPlayed": "2",
+  "ctRoundsWon": "15",
+  "tRoundsWon": "12"
+}, {
+  "eventId": 2720,
+  "teamId": 6665,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 2720,
+  "teamId": 6665,
+  "map": "Inferno",
+  "timesPlayed": "3",
+  "ctRoundsWon": "14",
+  "tRoundsWon": "26"
+}, {
+  "eventId": 2720,
+  "teamId": 6665,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 2720,
+  "teamId": 6665,
+  "map": "Overpass",
+  "timesPlayed": "3",
+  "ctRoundsWon": "23",
+  "tRoundsWon": "22"
+}, {
+  "eventId": 2720,
+  "teamId": 6665,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 2720,
+  "teamId": 6137,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 2720,
+  "teamId": 6137,
+  "map": "Inferno",
+  "timesPlayed": "3",
+  "ctRoundsWon": "23",
+  "tRoundsWon": "23"
+}, {
+  "eventId": 2720,
+  "teamId": 6137,
+  "map": "Overpass",
+  "timesPlayed": "2",
+  "ctRoundsWon": "15",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 2720,
+  "teamId": 4991,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 2720,
+  "teamId": 4991,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 2720,
+  "teamId": 4991,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "17",
+  "tRoundsWon": "15"
+}, {
+  "eventId": 2720,
+  "teamId": 4991,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 2720,
+  "teamId": 4991,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "11"
+}, {
+  "eventId": 2720,
+  "teamId": 4991,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 2720,
+  "teamId": 7532,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "13",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 2720,
+  "teamId": 7532,
+  "map": "Inferno",
+  "timesPlayed": "4",
+  "ctRoundsWon": "28",
+  "tRoundsWon": "27"
+}, {
+  "eventId": 2720,
+  "teamId": 7532,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 2720,
+  "teamId": 7533,
+  "map": "Cobblestone",
+  "timesPlayed": "2",
+  "ctRoundsWon": "14",
+  "tRoundsWon": "14"
+}, {
+  "eventId": 2720,
+  "teamId": 7533,
+  "map": "Mirage",
+  "timesPlayed": "3",
+  "ctRoundsWon": "22",
+  "tRoundsWon": "22"
+}, {
+  "eventId": 2720,
+  "teamId": 7533,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 2720,
+  "teamId": 5752,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 2720,
+  "teamId": 5752,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 2720,
+  "teamId": 5752,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 2720,
+  "teamId": 5752,
+  "map": "Train",
+  "timesPlayed": "2",
+  "ctRoundsWon": "16",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 2720,
+  "teamId": 5988,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "19"
+}, {
+  "eventId": 2720,
+  "teamId": 5988,
+  "map": "Train",
+  "timesPlayed": "3",
+  "ctRoundsWon": "15",
+  "tRoundsWon": "16"
+}, {
+  "eventId": 2720,
+  "teamId": 5995,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 2720,
+  "teamId": 5995,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 2720,
+  "teamId": 5995,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 2720,
+  "teamId": 5995,
+  "map": "Overpass",
+  "timesPlayed": "2",
+  "ctRoundsWon": "17",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 2720,
+  "teamId": 4494,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 2720,
+  "teamId": 4494,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 2720,
+  "teamId": 4494,
+  "map": "Train",
+  "timesPlayed": "2",
+  "ctRoundsWon": "18",
+  "tRoundsWon": "12"
+}, {
+  "eventId": 2720,
+  "teamId": 4608,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 2720,
+  "teamId": 4608,
+  "map": "Overpass",
+  "timesPlayed": "2",
+  "ctRoundsWon": "18",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 2720,
+  "teamId": 4608,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 2720,
+  "teamId": 5395,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 2720,
+  "teamId": 5395,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "13",
+  "tRoundsWon": "12"
+}, {
+  "eventId": 2720,
+  "teamId": 5395,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 2720,
+  "teamId": 6094,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 2720,
+  "teamId": 6094,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "2",
+  "tRoundsWon": "0"
+}, {
+  "eventId": 2720,
+  "teamId": 6094,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 2720,
+  "teamId": 6667,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 2720,
+  "teamId": 6667,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 2720,
+  "teamId": 6667,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 3247,
+  "teamId": 5752,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 3247,
+  "teamId": 5752,
+  "map": "Cobblestone",
+  "timesPlayed": "2",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 3247,
+  "teamId": 5752,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "25",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 3247,
+  "teamId": 5752,
+  "map": "Mirage",
+  "timesPlayed": "5",
+  "ctRoundsWon": "40",
+  "tRoundsWon": "38"
+}, {
+  "eventId": 3247,
+  "teamId": 5752,
+  "map": "Overpass",
+  "timesPlayed": "2",
+  "ctRoundsWon": "24",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 3247,
+  "teamId": 5752,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 3247,
+  "teamId": 6667,
+  "map": "Cache",
+  "timesPlayed": "3",
+  "ctRoundsWon": "17",
+  "tRoundsWon": "31"
+}, {
+  "eventId": 3247,
+  "teamId": 6667,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "20",
+  "tRoundsWon": "15"
+}, {
+  "eventId": 3247,
+  "teamId": 6667,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "12",
+  "tRoundsWon": "20"
+}, {
+  "eventId": 3247,
+  "teamId": 6667,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "11"
+}, {
+  "eventId": 3247,
+  "teamId": 6667,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 3247,
+  "teamId": 6667,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "12",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 3247,
+  "teamId": 4608,
+  "map": "Inferno",
+  "timesPlayed": "4",
+  "ctRoundsWon": "33",
+  "tRoundsWon": "24"
+}, {
+  "eventId": 3247,
+  "teamId": 4608,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "18",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 3247,
+  "teamId": 4608,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "2",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 3247,
+  "teamId": 4608,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 3247,
+  "teamId": 6137,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "2",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 3247,
+  "teamId": 6137,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 3247,
+  "teamId": 6137,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "15",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 3247,
+  "teamId": 6137,
+  "map": "Mirage",
+  "timesPlayed": "4",
+  "ctRoundsWon": "28",
+  "tRoundsWon": "23"
+}, {
+  "eventId": 3247,
+  "teamId": 6137,
+  "map": "Overpass",
+  "timesPlayed": "2",
+  "ctRoundsWon": "20",
+  "tRoundsWon": "12"
+}, {
+  "eventId": 3247,
+  "teamId": 4494,
+  "map": "Cache",
+  "timesPlayed": "2",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "17"
+}, {
+  "eventId": 3247,
+  "teamId": 4494,
+  "map": "Mirage",
+  "timesPlayed": "3",
+  "ctRoundsWon": "28",
+  "tRoundsWon": "16"
+}, {
+  "eventId": 3247,
+  "teamId": 4494,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 3247,
+  "teamId": 4494,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "13",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 3247,
+  "teamId": 4991,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 3247,
+  "teamId": 4991,
+  "map": "Inferno",
+  "timesPlayed": "3",
+  "ctRoundsWon": "20",
+  "tRoundsWon": "25"
+}, {
+  "eventId": 3247,
+  "teamId": 4991,
+  "map": "Mirage",
+  "timesPlayed": "3",
+  "ctRoundsWon": "19",
+  "tRoundsWon": "25"
+}, {
+  "eventId": 3247,
+  "teamId": 4991,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 3247,
+  "teamId": 7367,
+  "map": "Cache",
+  "timesPlayed": "2",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "12"
+}, {
+  "eventId": 3247,
+  "teamId": 7367,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "15",
+  "tRoundsWon": "11"
+}, {
+  "eventId": 3247,
+  "teamId": 7367,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "2",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 3247,
+  "teamId": 7367,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "14",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 3247,
+  "teamId": 5995,
+  "map": "Cache",
+  "timesPlayed": "2",
+  "ctRoundsWon": "15",
+  "tRoundsWon": "17"
+}, {
+  "eventId": 3247,
+  "teamId": 5995,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "12",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 3247,
+  "teamId": 5995,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 3247,
+  "teamId": 5995,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 3247,
+  "teamId": 6094,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "11"
+}, {
+  "eventId": 3247,
+  "teamId": 6094,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 3247,
+  "teamId": 6094,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 3247,
+  "teamId": 6094,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "0",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 3247,
+  "teamId": 6651,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 3247,
+  "teamId": 6651,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "2",
+  "tRoundsWon": "0"
+}, {
+  "eventId": 3247,
+  "teamId": 6651,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 3247,
+  "teamId": 6651,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 3247,
+  "teamId": 6651,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "13",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 3247,
+  "teamId": 5929,
+  "map": "Cobblestone",
+  "timesPlayed": "2",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "25"
+}, {
+  "eventId": 3247,
+  "teamId": 5929,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "14",
+  "tRoundsWon": "12"
+}, {
+  "eventId": 3247,
+  "teamId": 5929,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 3247,
+  "teamId": 6665,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "2",
+  "tRoundsWon": "0"
+}, {
+  "eventId": 3247,
+  "teamId": 6665,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 3247,
+  "teamId": 6665,
+  "map": "Train",
+  "timesPlayed": "2",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "12"
+}, {
+  "eventId": 3247,
+  "teamId": 5973,
+  "map": "Inferno",
+  "timesPlayed": "3",
+  "ctRoundsWon": "20",
+  "tRoundsWon": "16"
+}, {
+  "eventId": 3247,
+  "teamId": 5973,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 3247,
+  "teamId": 7532,
+  "map": "Cobblestone",
+  "timesPlayed": "2",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "17"
+}, {
+  "eventId": 3247,
+  "teamId": 7532,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "1",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 3247,
+  "teamId": 5378,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "0"
+}, {
+  "eventId": 3247,
+  "teamId": 5378,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 3247,
+  "teamId": 5378,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "2",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 3247,
+  "teamId": 7533,
+  "map": "Cobblestone",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 3247,
+  "teamId": 7533,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 3247,
+  "teamId": 7533,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "11"
+}, {
+  "eventId": 3564,
+  "teamId": 6665,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "15",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 3564,
+  "teamId": 6665,
+  "map": "Inferno",
+  "timesPlayed": "4",
+  "ctRoundsWon": "31",
+  "tRoundsWon": "32"
+}, {
+  "eventId": 3564,
+  "teamId": 6665,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "23",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 3564,
+  "teamId": 6665,
+  "map": "Nuke",
+  "timesPlayed": "2",
+  "ctRoundsWon": "12",
+  "tRoundsWon": "20"
+}, {
+  "eventId": 3564,
+  "teamId": 6665,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 3564,
+  "teamId": 4608,
+  "map": "Dust2",
+  "timesPlayed": "2",
+  "ctRoundsWon": "23",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 3564,
+  "teamId": 4608,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 3564,
+  "teamId": 4608,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 3564,
+  "teamId": 4608,
+  "map": "Nuke",
+  "timesPlayed": "2",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "14"
+}, {
+  "eventId": 3564,
+  "teamId": 4608,
+  "map": "Overpass",
+  "timesPlayed": "3",
+  "ctRoundsWon": "20",
+  "tRoundsWon": "21"
+}, {
+  "eventId": 3564,
+  "teamId": 4608,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 3564,
+  "teamId": 5973,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 3564,
+  "teamId": 5973,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "1",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 3564,
+  "teamId": 5973,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "14"
+}, {
+  "eventId": 3564,
+  "teamId": 5973,
+  "map": "Mirage",
+  "timesPlayed": "4",
+  "ctRoundsWon": "29",
+  "tRoundsWon": "26"
+}, {
+  "eventId": 3564,
+  "teamId": 5973,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 3564,
+  "teamId": 9215,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "11"
+}, {
+  "eventId": 3564,
+  "teamId": 9215,
+  "map": "Dust2",
+  "timesPlayed": "3",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "15"
+}, {
+  "eventId": 3564,
+  "teamId": 9215,
+  "map": "Inferno",
+  "timesPlayed": "3",
+  "ctRoundsWon": "30",
+  "tRoundsWon": "15"
+}, {
+  "eventId": 3564,
+  "teamId": 9215,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 3564,
+  "teamId": 9215,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 3564,
+  "teamId": 9215,
+  "map": "Train",
+  "timesPlayed": "2",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "21"
+}, {
+  "eventId": 3564,
+  "teamId": 6667,
+  "map": "Dust2",
+  "timesPlayed": "2",
+  "ctRoundsWon": "14",
+  "tRoundsWon": "16"
+}, {
+  "eventId": 3564,
+  "teamId": 6667,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 3564,
+  "teamId": 6667,
+  "map": "Mirage",
+  "timesPlayed": "4",
+  "ctRoundsWon": "24",
+  "tRoundsWon": "38"
+}, {
+  "eventId": 3564,
+  "teamId": 6667,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 3564,
+  "teamId": 5005,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 3564,
+  "teamId": 5005,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "16",
+  "tRoundsWon": "12"
+}, {
+  "eventId": 3564,
+  "teamId": 5005,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 3564,
+  "teamId": 5005,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "0"
+}, {
+  "eventId": 3564,
+  "teamId": 7532,
+  "map": "Dust2",
+  "timesPlayed": "2",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 3564,
+  "teamId": 7532,
+  "map": "Nuke",
+  "timesPlayed": "2",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 3564,
+  "teamId": 7532,
+  "map": "Train",
+  "timesPlayed": "2",
+  "ctRoundsWon": "22",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 3564,
+  "teamId": 5310,
+  "map": "Cache",
+  "timesPlayed": "2",
+  "ctRoundsWon": "18",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 3564,
+  "teamId": 5310,
+  "map": "Dust2",
+  "timesPlayed": "3",
+  "ctRoundsWon": "28",
+  "tRoundsWon": "24"
+}, {
+  "eventId": 3564,
+  "teamId": 5310,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "19"
+}, {
+  "eventId": 3564,
+  "teamId": 5310,
+  "map": "Overpass",
+  "timesPlayed": "2",
+  "ctRoundsWon": "17",
+  "tRoundsWon": "18"
+}, {
+  "eventId": 3564,
+  "teamId": 5310,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 3564,
+  "teamId": 4411,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 3564,
+  "teamId": 4411,
+  "map": "Mirage",
+  "timesPlayed": "3",
+  "ctRoundsWon": "23",
+  "tRoundsWon": "19"
+}, {
+  "eventId": 3564,
+  "teamId": 4411,
+  "map": "Train",
+  "timesPlayed": "3",
+  "ctRoundsWon": "13",
+  "tRoundsWon": "20"
+}, {
+  "eventId": 3564,
+  "teamId": 5995,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "2",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 3564,
+  "teamId": 5995,
+  "map": "Dust2",
+  "timesPlayed": "2",
+  "ctRoundsWon": "26",
+  "tRoundsWon": "18"
+}, {
+  "eventId": 3564,
+  "teamId": 5995,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "13",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 3564,
+  "teamId": 5995,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "2",
+  "tRoundsWon": "0"
+}, {
+  "eventId": 3564,
+  "teamId": 4991,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "0",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 3564,
+  "teamId": 4991,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 3564,
+  "teamId": 4991,
+  "map": "Inferno",
+  "timesPlayed": "3",
+  "ctRoundsWon": "14",
+  "tRoundsWon": "22"
+}, {
+  "eventId": 3564,
+  "teamId": 4991,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "20"
+}, {
+  "eventId": 3564,
+  "teamId": 6094,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "14"
+}, {
+  "eventId": 3564,
+  "teamId": 6094,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "12",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 3564,
+  "teamId": 6094,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 3564,
+  "teamId": 4863,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "12",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 3564,
+  "teamId": 4863,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "0"
+}, {
+  "eventId": 3564,
+  "teamId": 4863,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 3564,
+  "teamId": 4863,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 3564,
+  "teamId": 5752,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "23",
+  "tRoundsWon": "15"
+}, {
+  "eventId": 3564,
+  "teamId": 5752,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "1",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 3564,
+  "teamId": 5752,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 3564,
+  "teamId": 4494,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 3564,
+  "teamId": 4494,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 3564,
+  "teamId": 9183,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "12",
+  "tRoundsWon": "11"
+}, {
+  "eventId": 3564,
+  "teamId": 9183,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 3883,
+  "teamId": 6665,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "11"
+}, {
+  "eventId": 3883,
+  "teamId": 6665,
+  "map": "Inferno",
+  "timesPlayed": "3",
+  "ctRoundsWon": "22",
+  "tRoundsWon": "26"
+}, {
+  "eventId": 3883,
+  "teamId": 6665,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "28",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 3883,
+  "teamId": 6665,
+  "map": "Nuke",
+  "timesPlayed": "2",
+  "ctRoundsWon": "15",
+  "tRoundsWon": "17"
+}, {
+  "eventId": 3883,
+  "teamId": 6665,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 3883,
+  "teamId": 6665,
+  "map": "Train",
+  "timesPlayed": "2",
+  "ctRoundsWon": "26",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 3883,
+  "teamId": 4869,
+  "map": "Dust2",
+  "timesPlayed": "4",
+  "ctRoundsWon": "20",
+  "tRoundsWon": "19"
+}, {
+  "eventId": 3883,
+  "teamId": 4869,
+  "map": "Inferno",
+  "timesPlayed": "3",
+  "ctRoundsWon": "18",
+  "tRoundsWon": "18"
+}, {
+  "eventId": 3883,
+  "teamId": 4869,
+  "map": "Mirage",
+  "timesPlayed": "4",
+  "ctRoundsWon": "33",
+  "tRoundsWon": "31"
+}, {
+  "eventId": 3883,
+  "teamId": 4869,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 3883,
+  "teamId": 4869,
+  "map": "Train",
+  "timesPlayed": "4",
+  "ctRoundsWon": "31",
+  "tRoundsWon": "28"
+}, {
+  "eventId": 3883,
+  "teamId": 4608,
+  "map": "Dust2",
+  "timesPlayed": "3",
+  "ctRoundsWon": "16",
+  "tRoundsWon": "25"
+}, {
+  "eventId": 3883,
+  "teamId": 4608,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "14",
+  "tRoundsWon": "18"
+}, {
+  "eventId": 3883,
+  "teamId": 4608,
+  "map": "Mirage",
+  "timesPlayed": "4",
+  "ctRoundsWon": "38",
+  "tRoundsWon": "31"
+}, {
+  "eventId": 3883,
+  "teamId": 4608,
+  "map": "Train",
+  "timesPlayed": "2",
+  "ctRoundsWon": "16",
+  "tRoundsWon": "14"
+}, {
+  "eventId": 3883,
+  "teamId": 9215,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 3883,
+  "teamId": 9215,
+  "map": "Inferno",
+  "timesPlayed": "4",
+  "ctRoundsWon": "22",
+  "tRoundsWon": "20"
+}, {
+  "eventId": 3883,
+  "teamId": 9215,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 3883,
+  "teamId": 9215,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 3883,
+  "teamId": 9215,
+  "map": "Train",
+  "timesPlayed": "2",
+  "ctRoundsWon": "22",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 3883,
+  "teamId": 4411,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 3883,
+  "teamId": 4411,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 3883,
+  "teamId": 4411,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 3883,
+  "teamId": 4411,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "16",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 3883,
+  "teamId": 4411,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 3883,
+  "teamId": 4411,
+  "map": "Overpass",
+  "timesPlayed": "3",
+  "ctRoundsWon": "24",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 3883,
+  "teamId": 4411,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "1",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 3883,
+  "teamId": 6211,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 3883,
+  "teamId": 6211,
+  "map": "Dust2",
+  "timesPlayed": "2",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "16"
+}, {
+  "eventId": 3883,
+  "teamId": 6211,
+  "map": "Inferno",
+  "timesPlayed": "4",
+  "ctRoundsWon": "29",
+  "tRoundsWon": "21"
+}, {
+  "eventId": 3883,
+  "teamId": 6211,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "14",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 3883,
+  "teamId": 6211,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "0"
+}, {
+  "eventId": 3883,
+  "teamId": 6211,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 3883,
+  "teamId": 6667,
+  "map": "Cache",
+  "timesPlayed": "2",
+  "ctRoundsWon": "16",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 3883,
+  "teamId": 6667,
+  "map": "Dust2",
+  "timesPlayed": "2",
+  "ctRoundsWon": "12",
+  "tRoundsWon": "20"
+}, {
+  "eventId": 3883,
+  "teamId": 6667,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "12",
+  "tRoundsWon": "15"
+}, {
+  "eventId": 3883,
+  "teamId": 6667,
+  "map": "Mirage",
+  "timesPlayed": "3",
+  "ctRoundsWon": "20",
+  "tRoundsWon": "16"
+}, {
+  "eventId": 3883,
+  "teamId": 6667,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "11"
+}, {
+  "eventId": 3883,
+  "teamId": 5973,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 3883,
+  "teamId": 5973,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 3883,
+  "teamId": 5973,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "16",
+  "tRoundsWon": "11"
+}, {
+  "eventId": 3883,
+  "teamId": 5973,
+  "map": "Overpass",
+  "timesPlayed": "2",
+  "ctRoundsWon": "18",
+  "tRoundsWon": "14"
+}, {
+  "eventId": 3883,
+  "teamId": 5752,
+  "map": "Cache",
+  "timesPlayed": "2",
+  "ctRoundsWon": "16",
+  "tRoundsWon": "14"
+}, {
+  "eventId": 3883,
+  "teamId": 5752,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 3883,
+  "teamId": 5752,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "21",
+  "tRoundsWon": "11"
+}, {
+  "eventId": 3883,
+  "teamId": 5752,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 3883,
+  "teamId": 5752,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "0",
+  "tRoundsWon": "0"
+}, {
+  "eventId": 3883,
+  "teamId": 8120,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "2",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 3883,
+  "teamId": 8120,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "14",
+  "tRoundsWon": "14"
+}, {
+  "eventId": 3883,
+  "teamId": 8120,
+  "map": "Overpass",
+  "timesPlayed": "2",
+  "ctRoundsWon": "19",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 3883,
+  "teamId": 8120,
+  "map": "Train",
+  "timesPlayed": "2",
+  "ctRoundsWon": "12",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 3883,
+  "teamId": 9565,
+  "map": "Cache",
+  "timesPlayed": "2",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 3883,
+  "teamId": 9565,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 3883,
+  "teamId": 9565,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 3883,
+  "teamId": 9565,
+  "map": "Mirage",
+  "timesPlayed": "4",
+  "ctRoundsWon": "36",
+  "tRoundsWon": "25"
+}, {
+  "eventId": 3883,
+  "teamId": 9565,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 3883,
+  "teamId": 5005,
+  "map": "Cache",
+  "timesPlayed": "2",
+  "ctRoundsWon": "15",
+  "tRoundsWon": "20"
+}, {
+  "eventId": 3883,
+  "teamId": 5005,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 3883,
+  "teamId": 5005,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 3883,
+  "teamId": 5005,
+  "map": "Nuke",
+  "timesPlayed": "2",
+  "ctRoundsWon": "15",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 3883,
+  "teamId": 5310,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 3883,
+  "teamId": 5310,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 3883,
+  "teamId": 5310,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "2",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 3883,
+  "teamId": 5310,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 3883,
+  "teamId": 5310,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "0"
+}, {
+  "eventId": 3883,
+  "teamId": 5995,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 3883,
+  "teamId": 5995,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "12"
+}, {
+  "eventId": 3883,
+  "teamId": 5995,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "15",
+  "tRoundsWon": "11"
+}, {
+  "eventId": 3883,
+  "teamId": 6673,
+  "map": "Cache",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 3883,
+  "teamId": 6673,
+  "map": "Nuke",
+  "timesPlayed": "2",
+  "ctRoundsWon": "19",
+  "tRoundsWon": "14"
+}, {
+  "eventId": 3883,
+  "teamId": 6673,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 3883,
+  "teamId": 7532,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 3883,
+  "teamId": 7532,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "16",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 3883,
+  "teamId": 7532,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 3883,
+  "teamId": 7532,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 4443,
+  "teamId": 6665,
+  "map": "Dust2",
+  "timesPlayed": "3",
+  "ctRoundsWon": "32",
+  "tRoundsWon": "29"
+}, {
+  "eventId": 4443,
+  "teamId": 6665,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "13",
+  "tRoundsWon": "19"
+}, {
+  "eventId": 4443,
+  "teamId": 6665,
+  "map": "Nuke",
+  "timesPlayed": "2",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "11"
+}, {
+  "eventId": 4443,
+  "teamId": 6665,
+  "map": "Overpass",
+  "timesPlayed": "2",
+  "ctRoundsWon": "12",
+  "tRoundsWon": "20"
+}, {
+  "eventId": 4443,
+  "teamId": 6665,
+  "map": "Train",
+  "timesPlayed": "2",
+  "ctRoundsWon": "23",
+  "tRoundsWon": "21"
+}, {
+  "eventId": 4443,
+  "teamId": 6665,
+  "map": "Vertigo",
+  "timesPlayed": "2",
+  "ctRoundsWon": "13",
+  "tRoundsWon": "19"
+}, {
+  "eventId": 4443,
+  "teamId": 8120,
+  "map": "Dust2",
+  "timesPlayed": "4",
+  "ctRoundsWon": "13",
+  "tRoundsWon": "33"
+}, {
+  "eventId": 4443,
+  "teamId": 8120,
+  "map": "Inferno",
+  "timesPlayed": "3",
+  "ctRoundsWon": "15",
+  "tRoundsWon": "18"
+}, {
+  "eventId": 4443,
+  "teamId": 8120,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "21",
+  "tRoundsWon": "17"
+}, {
+  "eventId": 4443,
+  "teamId": 8120,
+  "map": "Overpass",
+  "timesPlayed": "3",
+  "ctRoundsWon": "24",
+  "tRoundsWon": "19"
+}, {
+  "eventId": 4443,
+  "teamId": 8120,
+  "map": "Vertigo",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 4443,
+  "teamId": 6211,
+  "map": "Dust2",
+  "timesPlayed": "3",
+  "ctRoundsWon": "22",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 4443,
+  "teamId": 6211,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 4443,
+  "teamId": 6211,
+  "map": "Mirage",
+  "timesPlayed": "4",
+  "ctRoundsWon": "33",
+  "tRoundsWon": "40"
+}, {
+  "eventId": 4443,
+  "teamId": 6211,
+  "map": "Nuke",
+  "timesPlayed": "2",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "11"
+}, {
+  "eventId": 4443,
+  "teamId": 6211,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "12",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 4443,
+  "teamId": 6211,
+  "map": "Vertigo",
+  "timesPlayed": "3",
+  "ctRoundsWon": "28",
+  "tRoundsWon": "17"
+}, {
+  "eventId": 4443,
+  "teamId": 6673,
+  "map": "Dust2",
+  "timesPlayed": "3",
+  "ctRoundsWon": "23",
+  "tRoundsWon": "25"
+}, {
+  "eventId": 4443,
+  "teamId": 6673,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "12"
+}, {
+  "eventId": 4443,
+  "teamId": 6673,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "12",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 4443,
+  "teamId": 6673,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 4443,
+  "teamId": 6673,
+  "map": "Train",
+  "timesPlayed": "2",
+  "ctRoundsWon": "20",
+  "tRoundsWon": "21"
+}, {
+  "eventId": 4443,
+  "teamId": 4608,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 4443,
+  "teamId": 4608,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "13",
+  "tRoundsWon": "19"
+}, {
+  "eventId": 4443,
+  "teamId": 4608,
+  "map": "Mirage",
+  "timesPlayed": "3",
+  "ctRoundsWon": "20",
+  "tRoundsWon": "24"
+}, {
+  "eventId": 4443,
+  "teamId": 4608,
+  "map": "Nuke",
+  "timesPlayed": "2",
+  "ctRoundsWon": "21",
+  "tRoundsWon": "12"
+}, {
+  "eventId": 4443,
+  "teamId": 4608,
+  "map": "Overpass",
+  "timesPlayed": "2",
+  "ctRoundsWon": "21",
+  "tRoundsWon": "12"
+}, {
+  "eventId": 4443,
+  "teamId": 4869,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 4443,
+  "teamId": 4869,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 4443,
+  "teamId": 4869,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 4443,
+  "teamId": 4869,
+  "map": "Nuke",
+  "timesPlayed": "2",
+  "ctRoundsWon": "11",
+  "tRoundsWon": "17"
+}, {
+  "eventId": 4443,
+  "teamId": 4869,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 4443,
+  "teamId": 9565,
+  "map": "Dust2",
+  "timesPlayed": "3",
+  "ctRoundsWon": "19",
+  "tRoundsWon": "14"
+}, {
+  "eventId": 4443,
+  "teamId": 9565,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "18",
+  "tRoundsWon": "14"
+}, {
+  "eventId": 4443,
+  "teamId": 9565,
+  "map": "Mirage",
+  "timesPlayed": "2",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "19"
+}, {
+  "eventId": 4443,
+  "teamId": 9565,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 4443,
+  "teamId": 9565,
+  "map": "Vertigo",
+  "timesPlayed": "1",
+  "ctRoundsWon": "12",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 4443,
+  "teamId": 5973,
+  "map": "Dust2",
+  "timesPlayed": "3",
+  "ctRoundsWon": "24",
+  "tRoundsWon": "23"
+}, {
+  "eventId": 4443,
+  "teamId": 5973,
+  "map": "Mirage",
+  "timesPlayed": "3",
+  "ctRoundsWon": "26",
+  "tRoundsWon": "25"
+}, {
+  "eventId": 4443,
+  "teamId": 5973,
+  "map": "Overpass",
+  "timesPlayed": "2",
+  "ctRoundsWon": "12",
+  "tRoundsWon": "19"
+}, {
+  "eventId": 4443,
+  "teamId": 5973,
+  "map": "Vertigo",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 4443,
+  "teamId": 4494,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 4443,
+  "teamId": 4494,
+  "map": "Inferno",
+  "timesPlayed": "1",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 4443,
+  "teamId": 4494,
+  "map": "Mirage",
+  "timesPlayed": "3",
+  "ctRoundsWon": "12",
+  "tRoundsWon": "23"
+}, {
+  "eventId": 4443,
+  "teamId": 4494,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "9"
+}, {
+  "eventId": 4443,
+  "teamId": 4494,
+  "map": "Vertigo",
+  "timesPlayed": "1",
+  "ctRoundsWon": "2",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 4443,
+  "teamId": 10150,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "13",
+  "tRoundsWon": "18"
+}, {
+  "eventId": 4443,
+  "teamId": 10150,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "15",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 4443,
+  "teamId": 10150,
+  "map": "Mirage",
+  "timesPlayed": "3",
+  "ctRoundsWon": "21",
+  "tRoundsWon": "20"
+}, {
+  "eventId": 4443,
+  "teamId": 10150,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "1",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 4443,
+  "teamId": 10150,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 4443,
+  "teamId": 10150,
+  "map": "Vertigo",
+  "timesPlayed": "1",
+  "ctRoundsWon": "4",
+  "tRoundsWon": "1"
+}, {
+  "eventId": 4443,
+  "teamId": 5995,
+  "map": "Dust2",
+  "timesPlayed": "2",
+  "ctRoundsWon": "17",
+  "tRoundsWon": "15"
+}, {
+  "eventId": 4443,
+  "teamId": 5995,
+  "map": "Inferno",
+  "timesPlayed": "3",
+  "ctRoundsWon": "17",
+  "tRoundsWon": "19"
+}, {
+  "eventId": 4443,
+  "teamId": 5995,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "0",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 4443,
+  "teamId": 5995,
+  "map": "Overpass",
+  "timesPlayed": "2",
+  "ctRoundsWon": "20",
+  "tRoundsWon": "8"
+}, {
+  "eventId": 4443,
+  "teamId": 5995,
+  "map": "Vertigo",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 4443,
+  "teamId": 6667,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "2"
+}, {
+  "eventId": 4443,
+  "teamId": 6667,
+  "map": "Mirage",
+  "timesPlayed": "3",
+  "ctRoundsWon": "23",
+  "tRoundsWon": "21"
+}, {
+  "eventId": 4443,
+  "teamId": 6667,
+  "map": "Nuke",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "13"
+}, {
+  "eventId": 4443,
+  "teamId": 6667,
+  "map": "Vertigo",
+  "timesPlayed": "1",
+  "ctRoundsWon": "10",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 4443,
+  "teamId": 7533,
+  "map": "Dust2",
+  "timesPlayed": "2",
+  "ctRoundsWon": "17",
+  "tRoundsWon": "5"
+}, {
+  "eventId": 4443,
+  "teamId": 7533,
+  "map": "Inferno",
+  "timesPlayed": "2",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "14"
+}, {
+  "eventId": 4443,
+  "teamId": 7533,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "8",
+  "tRoundsWon": "4"
+}, {
+  "eventId": 4443,
+  "teamId": 7533,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "11"
+}, {
+  "eventId": 4443,
+  "teamId": 9215,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "9",
+  "tRoundsWon": "7"
+}, {
+  "eventId": 4443,
+  "teamId": 9215,
+  "map": "Inferno",
+  "timesPlayed": "3",
+  "ctRoundsWon": "13",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 4443,
+  "teamId": 9215,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 4443,
+  "teamId": 4411,
+  "map": "Dust2",
+  "timesPlayed": "2",
+  "ctRoundsWon": "6",
+  "tRoundsWon": "10"
+}, {
+  "eventId": 4443,
+  "teamId": 4411,
+  "map": "Train",
+  "timesPlayed": "2",
+  "ctRoundsWon": "12",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 4443,
+  "teamId": 8305,
+  "map": "Dust2",
+  "timesPlayed": "1",
+  "ctRoundsWon": "3",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 4443,
+  "teamId": 8305,
+  "map": "Mirage",
+  "timesPlayed": "1",
+  "ctRoundsWon": "7",
+  "tRoundsWon": "3"
+}, {
+  "eventId": 4443,
+  "teamId": 8305,
+  "map": "Overpass",
+  "timesPlayed": "1",
+  "ctRoundsWon": "1",
+  "tRoundsWon": "6"
+}, {
+  "eventId": 4443,
+  "teamId": 8305,
+  "map": "Train",
+  "timesPlayed": "1",
+  "ctRoundsWon": "5",
+  "tRoundsWon": "3"
+}]
